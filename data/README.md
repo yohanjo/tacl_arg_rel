@@ -33,27 +33,27 @@ This directory contains two argument datasets (Kialo and Debatepedia) and additi
 
 ## Semantic Modules (rsc)
 * Textual Entailment
-  * `mnli-org.csv` : MNLI
-  * `antsyn-nli.csv` : AntSyn
-  * `neu_wpair-50000.csv` : Neu50K
+  * `mnli-org.csv`: MNLI
+  * `antsyn-nli.csv`: AntSyn
+  * `neu_wpair-50000.csv`: Neu50K
 * Sentiment Classification
-  * `senti-sem17.csv` : SemEval17
-  * `senti-ldong.csv` : Dong
-  * `senti-mm.csv` : Mitchell
-  * `senti-irish.csv` : Bakliwal
-  * `senti-norm.csv` : Norm
-  * `senti-s140.csv` : Sentiment140 (used for pretraining)
-  * `senti-slex.csv` : Subjectivity Lexicon (used for pretraining)
+  * `senti-sem17.csv`: SemEval17
+  * `senti-ldong.csv`: Dong
+  * `senti-mm.csv`: Mitchell
+  * `senti-irish.csv`: Bakliwal
+  * `senti-norm.csv`: Norm
+  * `senti-s140.csv`: Sentiment140 (used for pretraining)
+  * `senti-slex.csv`: Subjectivity Lexicon (used for pretraining)
 * Causality
-  * `pdtb-e-causal.csv` : PDTB Explicit (both `precede` and `sync` are mapped to `cause`)
-  * `pdtb-i-causal.csv` : PDTB Implicit (both `precede` and `sync` are mapped to `cause`)
-  * `pdtb-e-causal-r.csv` : PDTB-R Explicit (`sync` is mapped to `cause`)
-  * `pdtb-i-causal-r.csv` : PDTB-R Implicit (`sync` is mapped to `cause`)
-  * `because-causal.csv` : BECauSE
-  * `because-causal-r.csv` : BECauSE-R
-  * `conet-causal.csv` : ConceptNet (both `cause` and `precede` are mapped to `cause`)
-  * `conet-causal-r.csv` : ConceptNet-R
+  * `pdtb-e-causal.csv`: PDTB Explicit (both `precede` and `sync` are mapped to `cause`)
+  * `pdtb-i-causal.csv`: PDTB Implicit (both `precede` and `sync` are mapped to `cause`)
+  * `pdtb-e-causal-r.csv`: PDTB-R Explicit (`sync` is mapped to `cause`)
+  * `pdtb-i-causal-r.csv`: PDTB-R Implicit (`sync` is mapped to `cause`)
+  * `because-causal.csv`: BECauSE
+  * `because-causal-r.csv`: BECauSE-R
+  * `conet-causal.csv`: ConceptNet (both `cause` and `precede` are mapped to `cause`)
+  * `conet-causal-r.csv`: ConceptNet-R
   * `wiqa-causal.csv`: WIQA
-  * `wiqa-causal-p.csv` : WIQA-P
+  * `wiqa-causal-p.csv`: WIQA-P
 * Normative Relation
   * `normarg.csv`: Annotations of argumentation schemes (see `/annotation/README.md` for the format)
