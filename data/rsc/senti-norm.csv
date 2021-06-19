@@ -1,0 +1,633 @@
+id,fold,label,target,text
+senti-norm-10154#1,0,pos,Student loan debt in the US be forgiven for all,Student loan debt in the US should be forgiven for all.
+senti-norm-5904#1,1,pos,Governments make an effort to reduce the gender pay gap,Governments should make an effort to reduce the gender pay gap.
+senti-norm-1470#7,2,neg,A felon be part of the processes through which this society governs itself,A felon has violated the rules and laws of the American society and caused harm to its community; he/she should therefore not be part of the processes through which this society governs itself.
+senti-norm-23139#115,3,pos,"Parents decide on their children's diet whether they are vegetarian or not, at least until the children become mature enough to make their own choices","Parents have to decide on their children's diet whether they are vegetarian or not, at least until the children become mature enough to make their own choices."
+senti-norm-23796#1,5,neg,be mandatory for cyclists to wear helmets,It should not be mandatory for cyclists to wear helmets
+senti-norm-15695#1,6,pos,HPV vaccine be made accessible to everyone for free,HPV vaccine should be made accessible to everyone for free.
+senti-norm-16680#1,7,pos,Creators cater to their fans,Creators should cater to their fans.
+senti-norm-1323#1,8,neg,Traditional bullfighting - the practice of fighting with bulls that includes physically injuring them,Traditional bullfighting - the practice of fighting with bulls that includes physically injuring them - should be banned.
+senti-norm-5548#1,0,pos,In case aliens exist say hello,"In case aliens exist, we should say hello."
+senti-norm-9360#1,1,neg,Jury trials,Jury trials should be abolished.
+senti-norm-9269#1,2,pos,Parents Who Don't Vaccinate Their Children Be Fined If The Child Gets A Vaccine-Preventable Illness,Parents Who Don't Vaccinate Their Children Should Be Fined If The Child Gets A Vaccine-Preventable Illness.
+senti-norm-19191#26,3,pos,Justice be doled out by government,"Justice should be doled out by government, not by private citizens. Privatization removes an aspect of government authority from the justice process."
+senti-norm-13673#1,4,neg,Infant circumcision,Infant circumcision should be banned.
+senti-norm-27820#103,5,pos,refugees do not choose to leave their country out of their own free choice be kept in mind when considering the treatment they deserve,"In the vast majority of cases, refugees do not choose to leave their country out of their own free choice, and instead flee for fear of their lives; this must be kept in mind when considering the treatment they deserve. (p.1)"
+senti-norm-4458#73,7,neg,Trump's presidency standard principles and norms of democracy apply,Trump's presidency is so unusual and anomalous that standard principles and norms of democracy should not apply.
+senti-norm-13623#54,8,pos,government be cutting other expenses to make room for Internet access,If a government cannot provide internet access in some form to its citizens it should be cutting other expenses to make room for it. Internet access most importantly provides knowledge to its users.
+senti-norm-5746#1,9,pos,Routine childhood vaccination against preventable diseases be mandatory worldwide,Routine childhood vaccination against preventable diseases should be mandatory worldwide.
+senti-norm-2495#1,0,pos,Humanity colonize Mars,Humanity should colonize Mars.
+senti-norm-2995#3,1,pos,Avoid Entirely,Avoid Entirely
+senti-norm-19174#1,2,neg,apps preventing traffic jams by diverting traffic into small side streets,We should ban apps from preventing traffic jams by diverting traffic into small side streets.
+senti-norm-4650#3,3,neg,The US change its voting system,...It should not change its system. The US should continue using the First-Past-The-Post voting system. Described here: en.wikipedia.org
+senti-norm-18593#308,6,neg,Religious exemption laws,Religious exemption laws should be repealed in order to prevent children suffering from illnesses that could have been prevented.
+senti-norm-1926#6,7,neg,Huckleberry Finn language be modified,"It is important to preserve the artistic integrity of great works of art like Huckleberry Finn. As such, none of its language should be modified."
+senti-norm-2027#840,8,neg,The government be bothered with what people consume in private,"The government should not be bothered with what people consume in private, as they are not affecting other people publicly."
+senti-norm-3654#19,0,pos,All childcare be subject to rigorous checks and controls to ensure the safety of the children,All childcare should be subject to rigorous checks and controls to ensure the safety of the children. With these in place gender is no longer an issue.
+senti-norm-1634#1,1,pos,Wealthy countries provide citizens with a universal basic income (UBI),Wealthy countries should provide citizens with a universal basic income (UBI).
+senti-norm-27820#45,2,pos,allow asylum seekers in need to live in safety in the EU,There is a moral duty to allow asylum seekers in need to live in safety in the EU.
+senti-norm-2439#1,3,pos,Military conscription apply to men and women equally,Military conscription should apply to men and women equally.
+senti-norm-5637#1161,4,pos,"a woman have reproductive control, which includes abortion","Men and women are not different in any way that has any bearing on the argument of equality/equal rights. Equality, in this respect, allows a woman to pursue her aspirations in an equivalent manner to which a man is able to pursue his - and in order to achieve that a woman must have reproductive control, which includes abortion."
+senti-norm-24937#1,5,pos,"choose almond milk over cow's milk, when it is available","Everyone should choose almond milk over cow's milk, when it is available."
+senti-norm-9196#1,6,pos,Mobile phones be used in the classroom,Mobile phones should be used in the classroom.
+senti-norm-1473#1,8,pos,"Consenting adults be allowed to compete in official, deadly arena-style tournaments","Consenting adults should be allowed to compete in official, deadly arena-style tournaments, without having to fear any legal repercussions."
+senti-norm-9863#4,9,neg,real skills nor proof to contribute,No real skills nor proof of them is needed to contribute.
+senti-norm-5545#32,1,neg,Professional thieves are brought out of illegality if their profession is sanctioned,Professional thieves are brought out of illegality if their profession is sanctioned. Doesn't mean it should be.
+senti-norm-9791#1,2,pos,Euthanasia be legalised,Euthanasia should be legalised.
+senti-norm-7835#1,4,pos,Inheritance be minimized to create an equal outset for everyone,Inheritance should be minimized to create an equal outset for everyone.
+senti-norm-16174#1,6,neg,Pride organisers corporate sponsorship,Pride organisers should refuse corporate sponsorship.
+senti-norm-28142#1,8,neg,Universities Fossil Fuels,Universities Should Divest from Fossil Fuels
+senti-norm-14346#1,9,neg,The tampon tax,The tampon tax should be abolished.
+senti-norm-25497#3,0,neg,Marriage be supported by the state,Marriage is a harmful institution and should not be supported by the state.
+senti-norm-5212#4,1,pos,Those in favour of a Labour government (or who oppose Conservative rule) accept that under current circumstances Jeremy Corbyn should be the next Prime Minister,Jeremy Corbyn's position as leader of the Labour Party is secure for the foreseeable future. Those in favour of a Labour government (or who oppose Conservative rule) must therefore accept that under current circumstances he should be the next Prime Minister.
+senti-norm-4415#1,3,pos,Human beings colonize Venus before Mars,Human beings should colonize Venus before Mars.
+senti-norm-23850#391,5,neg,term limits for any democratically elected people,This logic would imply that there should not be term limits for any democratically elected people.
+senti-norm-11720#1,6,neg,The Second Amendment to the U.S. Constitution,The Second Amendment to the U.S. Constitution should be repealed.
+senti-norm-2871#332,7,pos,The children here illegally go back to their parents' country of origin with their parents,"If parents snuck their children into Disney World and were caught and ejected from the park would you blame and punish Disney World? The children here illegally should go back to their parents' country of origin with their parents. The majority of them are not minors now, and have not applied for citizenship since they've been here."
+senti-norm-16419#19,9,pos,Women be treated in a special way,"Women today still face gender-based discrimination, thus any behavior, implying that they are less capable or should be treated in a special way, should be discontinued."
+senti-norm-1764#15,1,pos,Universities function as models for civic and civil discourse,Universities should function as models for civic and civil discourse. Ideas which fall outside of the norms of proper civil discourse should be excluded from it.
+senti-norm-25803#110,3,pos,choose to opt into internships,People choose to opt into internships. If they feel it is in their interests they should be free to choose to do so.
+senti-norm-13817#8,4,pos,the American flag be off limits,"This is something that should be off limits, the American flag is something beyond a symbol for many."
+senti-norm-2091#1227,5,neg,The US support the two-state solution,The US should not support the two-state solution as it is not the best outcome for the region.
+senti-norm-1764#5,8,neg,No-platforming,No-platforming should be abandoned because it is an assault on free speech.
+senti-norm-1926#1369,9,pos,The language of Twain be modified,The language of Twain is inaccessible to children and should therefore be modified.
+senti-norm-6116#1,1,pos,Every country be ethno-nationalist,Every country should be ethno-nationalist.
+senti-norm-14198#5,3,pos,Children be given time to grow a natural interest in technology,Children should be given time to grow a natural interest in technology instead of being pushed into it.
+senti-norm-5637#1,4,pos,Pregnant people have the right to choose abortion,Pregnant people should have the right to choose abortion.
+senti-norm-9980#1,7,pos,Organ donation be mandatory,Organ donation should be mandatory.
+senti-norm-30257#2,8,neg,the overcrowded and unsanitary breeding facilities from which most pets are currently sourced,This is necessary to counter the overcrowded and unsanitary breeding facilities from which most pets are currently sourced.
+senti-norm-14939#1,0,pos,Football (soccer) in Australia adopt a promotion and relegation system,Football (soccer) in Australia should adopt a promotion and relegation system.
+senti-norm-2214#459,1,pos,give them a safe place to live and protect them,"Basic humanitarian principles, such as those found in international humanitarian law demand that we give them a safe place to live and protect them."
+senti-norm-17848#1,2,pos,Profanity be Permitted in Debate,Profanity Should be Permitted in Debate
+senti-norm-1692#1,3,pos,Citizens in democratic states be required to vote or be fined,Citizens in democratic states should be required to vote or be fined.
+senti-norm-14035#863,4,pos,Animals eat other animals to survive,"Animals do not have a choice, they have to eat other animals to survive, and don't have the cognitive abilities to take an ethical stance on eating animals. Humans have choice and can be perfectly healthy without meat."
+senti-norm-1474#5,5,pos,"Once released, they be treated like ordinary citizens, imposing no additional obligations upon them","Once released, they should be treated like ordinary citizens, imposing no additional obligations upon them."
+senti-norm-13288#63,6,pos,They suffer from the negative consequences of unhealthy behaviors for a longer period of time,They would have to suffer from the negative consequences of unhealthy behaviors for a longer period of time. This is an incentive to live as healthy as possible.
+senti-norm-28770#1,7,neg,Children own a smartphone,Children should not own a smartphone.
+senti-norm-2214#27,8,pos,high-income countries help Refugees,"Refugees are desperate, vulnerable, innocent human beings. Given that every human being is of equal dignity and humanity, high-income countries must help them."
+senti-norm-28474#1,9,pos,"Civilians have the right to physically resist the police for performing an unlawful arrest, search, or seizure","Civilians should have the right to physically resist the police for performing an unlawful arrest, search, or seizure."
+senti-norm-3529#1,0,pos,An artificial general intelligence (AGI) be created,An artificial general intelligence (AGI) should be created.
+senti-norm-26696#1,1,pos,If he broke the law the President of the United States be indicted and prosecuted,If he broke the law the President of the United States should be indicted and prosecuted.
+senti-norm-14255#1735,2,pos,"Religions, sects, denominations, and churches exist upon their own merit","Religions, sects, denominations, and churches should exist upon their own merit. If a church would fail without it’s non taxable status, it should be allowed to fail. It is the free market of ideas."
+senti-norm-8539#4603,3,pos,other sources for charity and selfless acts than religion,"Those who are not religious also partake in charity and selfless acts, therefore there must be other sources for it than religion."
+senti-norm-29923#12,5,pos,Put up more signs as reminders,Put up more signs as reminders! Think about puppets which you can already get from 55E or real signs with a speedlimit of 30km/h. . Make them yourself! customized to our liking and can be an artful expression of sorts.
+senti-norm-1528#33,6,pos,be allowed to value their life as they see fit,"People should be allowed to value their life as they see fit. If they self-actualize best through obesity, we should not prevent them from doing so."
+senti-norm-5087#1,8,pos,Fireworks only be enjoyed at organised public displays,Fireworks should only be enjoyed at organised public displays and not sold domestically.
+senti-norm-14742#2,9,neg,Older generations lose the democratic right to vote because of age,Older generations have been granted the democratic right to vote. They should not lose that right because of age.
+senti-norm-23850#464,0,neg,It matter which individual sits on the bench (assuming basic qualifications),It should not matter which individual sits on the bench (assuming basic qualifications). The role should be executed in exactly the same way no matter who the individual Justices are. Concern over who exactly holds office as a Justice is therefore misplaced.
+senti-norm-15628#11,3,pos,People who work as software developers make money to buy basic necessities,People who work as software developers need to make money to buy basic necessities.
+senti-norm-9762#577,4,neg,Schools a good place for a gun to be stored,Schools are tense places and teachers are already faced with having to diffuse arguments and fights daily. This is not a good place for a gun to be stored. In a crisis a teacher needs to mind all the children and assure they are silent and sheltered in place or moving as the situation requires. That is already a very tall order.
+senti-norm-26461#1,5,neg,The Subminimum Wage,The Subminimum Wage should be abolished.
+senti-norm-17670#1,6,pos,"Drivers always mirror, signal, manoeuvre","Drivers should always mirror, signal, manoeuvre."
+senti-norm-23298#1,7,neg,Horse racing,Horse racing should be banned.
+senti-norm-24256#5,8,pos,Children be protected from violence,Children are sensitive beings who need to be protected from violence.
+senti-norm-12626#13,9,neg,secular symbols be displayed at school,"If ""religious symbols"" cannot be displayed at school then secular symbols need to go as well, to avoid double standards."
+senti-norm-10250#1,0,pos,Voters in the UK have a final vote on the Brexit deal,Voters in the UK should have a final vote on the Brexit deal.
+senti-norm-16915#1,1,pos,Planned Parenthood be defunded,Planned Parenthood should be defunded
+senti-norm-19119#8,2,pos,Hungary defend Hungarian values against the globalisation agenda of the EU and others,Hungarian values are distinct from European or global values. Hungary should defend them against the globalisation agenda of the EU and others.
+senti-norm-28593#1,3,pos,Kosovo be considered an independent country,Kosovo should be considered an independent country.
+senti-norm-5496#1,5,pos,"believe that God exists, even if they are not sure it's true","One should believe that God exists, even if they are not sure it's true."
+senti-norm-12002#10,6,neg,Regulating a social media platform that is used by millions of people worldwide,Regulating a social media platform that is used by millions of people worldwide is an immensely difficult task. Each country must have laws against it and those countries must coordinate together. Some countries do not have the resources or the motivation to enforce such regulations.
+senti-norm-18304#1,7,pos,Google censor their search results,Google should censor their search results in order to operate in China.
+senti-norm-1233#1,8,neg,"Honey, beeswax, royal jelly, or bee venom and products made thereof","Honey, beeswax, royal jelly, or bee venom and products made thereof should be banned, even if the products come from organic beekeepers."
+senti-norm-5581#1,9,pos,First Aid be taught in schools worldwide,First Aid should be taught in schools worldwide.
+senti-norm-13237#1,1,neg,Land boundaries/borders,Land boundaries/borders should not exist.
+senti-norm-2027#399,2,pos,"decisions where the voters aren´t questioned (foreign policies, taxation, etc.) also be the case with drug legalisation","There are decisions where the voters aren´t questioned (foreign policies, taxation, etc.) and it is for the better of it, this should also be the case with drug legalisation."
+senti-norm-15269#1,3,pos,require restitution instead of or in addition to prison and fines for criminals that are not dangerous,We should require restitution instead of or in addition to prison and fines for criminals that are not dangerous.
+senti-norm-14932#1,4,neg,The Kinder Morgan pipeline expansion,The Kinder Morgan pipeline expansion should not be built.
+senti-norm-8649#5,5,pos,"The name ""Macedonia"" only be the name of a region","The name ""Macedonia"" should only be the name of a region), and not be coopted to construct a national identity."
+senti-norm-17753#1,6,neg,The government hold a central database of its citizens' health data,The government shouldn't hold a central database of its citizens' health data
+senti-norm-15695#19,7,pos,People be taught to be more proactive in their health by avoiding HPV risks,People should be taught to be more proactive in their health by avoiding HPV risks rather than getting a vaccine.
+senti-norm-18429#5,8,pos,Gender differences be celebrated,Gender differences need to be celebrated.
+senti-norm-26950#1,9,neg,children 16 and under from being unsupervised,Laws should prohibit children 16 and under from being unsupervised.
+senti-norm-10098#1,2,neg,US and NATO all combat and peacekeeping roles in Afghanistan,US and NATO should completely withdraw from all combat and peacekeeping roles in Afghanistan.
+senti-norm-3185#1,4,pos,The ecological crisis Earth is facing become the collective and singular focus of society,The ecological crisis Earth is facing should become the collective and singular focus of society.
+senti-norm-1546#559,5,pos,"if the passenger was the Prime Minister or President, alter the moral consideration beyond just directly comparing that amount of lives saved","For example, if the passenger was the Prime Minister or President, that should alter the moral consideration beyond just directly comparing that amount of lives saved."
+senti-norm-21159#1,6,neg,Humans tour space,Humans should not tour space.
+senti-norm-10297#1,7,pos,The man be older,The man should be older
+senti-norm-2141#1,8,neg,US companies paying any employee more than 35 times the compensation of their lowest-paid employee,US companies should be prohibited from paying any employee more than 35 times the compensation of their lowest-paid employee.
+senti-norm-13283#1,9,neg,Religious organisations in liberal democracies receive any public funding (direct or indirect),Religious organisations in liberal democracies should not receive any public funding (direct or indirect).
+senti-norm-6980#45,0,pos,"Canada, Quebec to stay",Canada needs Quebec to stay.
+senti-norm-16974#1,1,pos,"A flat ""Asset Tax"" is all the tax we ever pay","A flat ""Asset Tax"" is all the tax we should ever pay."
+senti-norm-22454#607,2,pos,"Governments limit free speech in societies which are not fully developed, or where civil discourse has broken down","Governments should limit free speech in societies which are not fully developed, or where civil discourse has broken down."
+senti-norm-13948#1,3,pos,YouTube facilitate revenue splitting by rights-holders,YouTube should facilitate revenue splitting by rights-holders.
+senti-norm-18325#1,4,pos,spend our spare time helping others,We should spend our spare time helping others rather than in self-development.
+senti-norm-22454#3,5,neg,People's right to free speech include hate speech,People's right to free speech should not include hate speech.
+senti-norm-2219#1,7,pos,"The LGBT rights movement campaign use the narrative that queer individuals were ""born that way""","The LGBT rights movement campaign should use the narrative that queer individuals were ""born that way""."
+senti-norm-2995#2,8,pos,Kneel,Kneel
+senti-norm-7185#4,9,pos,"High value transactions, the work of professionals",High value transactions require the work of professionals
+senti-norm-2027#1047,1,pos,"Legalise all drugs, requiring each purchase to be accompanied by a test to ensure the consent and health of the consumer","Legalise all drugs, requiring each purchase to be accompanied by a test to ensure the consent and health of the consumer."
+senti-norm-29707#1,2,pos,volunteer,People should volunteer.
+senti-norm-2408#1,3,neg,"The US, Confederate memorials, flags, and monuments from public spaces","The US should remove Confederate memorials, flags, and monuments from public spaces."
+senti-norm-15306#1,5,pos,Use of disposable items be limited,Use of disposable items should be limited.
+senti-norm-16174#139,6,pos,rationalize their decisions ,"The individuals who run companies, and set their hiring policy, are human. Humans need to rationalize their decisions and as such will find it difficult to continue to discriminate against LGBTQ+ individuals whilst also funding the pride movement."
+senti-norm-6288#1,7,pos,Aborting a disabled child be legal,Aborting a disabled child should be legal.
+senti-norm-2214#1,8,pos,High-income countries take in significant numbers of refugees,High-income countries should take in significant numbers of refugees.
+senti-norm-12650#1,9,pos,Constitutions protect linguistic minorities,Constitutions should protect linguistic minorities.
+senti-norm-1266#1,1,neg,public restrooms of any sort be separated by either sex or gender,No public restrooms of any sort should be separated by either sex or gender.
+senti-norm-17261#1,4,neg,The United States penny,The United States should abolish the penny.
+senti-norm-2813#73,5,neg,file tax returns under a FairTax system,"Individuals do not need to file tax returns under a FairTax system (Tuerck, p. 3). This simplifies the lifes of citizens."
+senti-norm-15434#1,6,neg,All religions on a global scale,All religions should be banned on a global scale.
+senti-norm-1474#2,8,pos,"They be required to live in entirely detached communities, separated from the rest of society but without further restrictions of rights such as those that might be found in prisons or penal colonies","They should be required to live in entirely detached communities, separated from the rest of society but without further restrictions of rights such as those that might be found in prisons or penal colonies."
+senti-norm-9146#8,9,pos,Abusive people suffer consequences,Abusive people should suffer consequences.
+senti-norm-1592#4,0,pos,Fight to the death (and kill at least one of the British),"Option ""Three"": Fight to the death (and kill at least one of the British)."
+senti-norm-4540#1,1,pos,Humans act to fight climate change,Humans should act to fight climate change.
+senti-norm-16420#16,2,pos,Career politicians battle other candidates,Career politicians are better prepared since they need to battle other candidates.
+senti-norm-16826#1,3,pos,Copyright die with the creator,Copyright should die with the creator
+senti-norm-12158#2,5,pos,The existing means test be aligned with the Care Act financial assessment,The existing means test should be aligned with the Care Act financial assessment
+senti-norm-23850#577,6,pos,a political institution be adequately reflective of public opinion,"Regardless of what it was meant to be, the Supreme Court is a political institution, and its judgements have political consequences. Such an institution must be adequately reflective of public opinion like all other political institutions in the US are."
+senti-norm-29141#1,7,neg,Content creators own streaming services,Content creators should not own streaming services
+senti-norm-15876#1,8,neg,Straight actors play gay characters,Straight actors should not play gay characters.
+senti-norm-5637#1245,0,pos,a woman not equipped to or want to raise a child is able to choose abortion,"There are many reasons a woman may not be equipped to or want to raise a child. In these cases, it is important that she is able to choose abortion."
+senti-norm-29906#6,1,pos,Someone who promotes an ideology that stands for hate and violence be reprimanded,Someone who promotes an ideology that stands for hate and violence should be reprimanded.
+senti-norm-15238#1,2,pos,Major League Soccer adopt promotions and relegations,Major League Soccer should adopt promotions and relegations.
+senti-norm-7739#575,4,neg,pursue enjoyment by causing suffering and/or death in other living beings,A person should not pursue enjoyment by causing suffering and/or death in other living beings.
+senti-norm-3346#1,5,pos,The US adopt stricter gun control legislation in the form of the policy defined in the discussion info (click top left menu =\> Info),"The US should adopt stricter gun control legislation, in the form of the policy defined in the discussion info (click top left menu =\> Info)."
+senti-norm-13564#84,6,pos,proceed with a method to have control over the process,"This next step is inevitable, so we should proceed with a method to have control over the process."
+senti-norm-18869#1,7,pos,Election Day be a National Holiday in the U.S,Election Day Should be a National Holiday in the U.S.
+senti-norm-30084#1,8,neg,feel obliged to change their lifestyle to combat global warming,No one should feel obliged to change their lifestyle to combat global warming.
+senti-norm-9746#25,0,pos,guns be 'regulated',The quote says it should be 'regulated'. Restricting the availability of certain types of guns is therefore well within the range of permissible actions.
+senti-norm-14035#19,2,pos,Vegetarian diet proper supplementation or a wide knowledge about nutrition,Vegetarian diet needs proper supplementation or a wide knowledge about nutrition to avoid deficiency.
+senti-norm-21194#1,3,pos,All transgender athletes compete in men's divisions,All transgender athletes should have to compete in men's divisions.
+senti-norm-3371#146,4,pos,All Muslims be Sunni,All Muslims should be Sunni.
+senti-norm-26322#1,5,pos,Theresa May resign,Theresa May should resign.
+senti-norm-4615#1,6,pos,Governments impose coercive methods of population control,Governments should impose coercive methods of population control.
+senti-norm-16376#160,0,pos,Docked stations prioritize catering to those who're likely to utilise bike sharing programs,Most residents of a city are unlikely to utilise bike share in favor of having their own bikes. Docked stations should therefore prioritize catering to those who're likely to utilise bike sharing programs.
+senti-norm-14742#1,2,pos,an age limit on voting,There should be an age limit on voting.
+senti-norm-9360#42,3,neg,"The system prioritize the wishes of the public, if juries produce problematic rulings or unjust outcomes","The system should not prioritize the wishes of the public, if juries produce problematic rulings or unjust outcomes."
+senti-norm-9354#1,5,pos,Public health care systems cover the costs of homeopathic treatment,Public health care systems should cover the costs of homeopathic treatment.
+senti-norm-10214#3,9,neg,Politics be discussed in schools,Politics shouldn't be discussed in schools because teachers may bias their students.
+senti-norm-15098#1,0,neg,U.S. Immigration and Customs Enforcement (ICE),U.S. Immigration and Customs Enforcement (ICE) should be eliminated.
+senti-norm-12626#121,3,pos,monitor whether teachers have their hair colored or other chemical treatments,"If children are that fragile and easily influenced, we must also monitor whether teachers have their hair colored or other chemical treatments. Chemicals are bad for the environment and we wouldn't want kids thinking that was OK. And we must insist that clothing teachers wear is made in the US; we can't imply that it's OK to take advantage of cheap labor in less fortunate places. And clothes must be sold by companies that use models of all shapes and sizes because we can't have body shaming..."
+senti-norm-13292#13,4,pos,"Tax be combined with education about the problems of meat, an increase in lobbyists against meat, and so forth","Tax alone would not help the issues around meat. It should be combined with education about the problems of meat, an increase in lobbyists against meat, and so forth."
+senti-norm-16674#17,5,pos,Humans be allowed to explore DIY gene editing,Humans should be allowed to explore DIY gene editing.
+senti-norm-1926#120,6,pos,a 'right' be considered either a moral or legal entitlement,"For a 'right' to exist, it needs to be considered either a moral or legal entitlement."
+senti-norm-7614#1,8,pos,School be mandatory,School should be mandatory.
+senti-norm-5601#874,9,pos,Trump be impeached on ethical and moral grounds,"Trump should be impeached on ethical and moral grounds, in part for harming the wellbeing of US citizens."
+senti-norm-1229#1,0,neg,Humans eating animal meat,Humans should stop eating animal meat.
+senti-norm-21024#1,2,pos,Existing scientific journals be flipped to fair open access publishing models,Existing scientific journals should be flipped to fair open access publishing models. Fair Open Access Alliance
+senti-norm-12828#1,8,neg,Private education,Private education is wrong and should be ended.
+senti-norm-4479#1,9,pos,The European Union intervene in the political conflict in Catalonia,The European Union should intervene in the political conflict in Catalonia.
+senti-norm-10074#269,0,pos,Offensive speech usually be countered by opposing speech,"A ban is not necessarily the best way to counteract this effect. Offensive speech should usually be countered by opposing speech, rather than by suppressing people's freedom of speech."
+senti-norm-6086#19,1,pos,The human body sugar,The human body needs sugar to survive while it can avoid tobacco entirely.
+senti-norm-5465#1,4,pos,Genetically Modified Organisms be promoted as part of a sustainable agricultural economy,Genetically Modified Organisms should be promoted as part of a sustainable agricultural economy.
+senti-norm-6351#8,6,pos,The European Union become a United States of Europe,The European Union should become a United States of Europe.
+senti-norm-2091#54,7,pos,The US take this step to bring Israel back to the negotiating table,Israel has all but given up on the two state solution. The US must take this step to bring Israel back to the negotiating table.
+senti-norm-30339#1,9,pos,All nations come together to form one world state,All nations should come together to form one world state.
+senti-norm-2469#599,0,pos,The electoral college be reformed,"The electoral college should be reformed, rather than abolished."
+senti-norm-2232#1,3,pos,Criminal punishments be based only on the offenders' culpability rather than the damages caused by the criminal act or other outcomes derived from the punishment,Criminal punishments should be based only on the offenders' culpability rather than the damages caused by the criminal act or other outcomes derived from the punishment.
+senti-norm-2027#2274,4,pos,Regulation keep a balance between the interests of the consumer and the safety of the consumer,"A consistent evidence based approach, legalising all non-harmful, non-addictive drugs, and criminalising the rest. (Potentially legalising consuming cannabis, but banning smoking tobacco). Regulation should keep a balance between the interests of the consumer and the safety of the consumer."
+senti-norm-4148#1,6,pos,Human life be valued above animal life in the case that only one can be preserved,Human life should be valued above animal life in the case that only one can be preserved.
+senti-norm-9269#709,7,neg,"We consider any rule that suggests people have the freedom to choose, but then punish them if the consequences of their choice appear to be negative at a later date","We should not consider any rule that suggests people have the freedom to choose, but then punish them if the consequences of their choice appear to be negative at a later date."
+senti-norm-7565#1,8,pos,Higher education be publicly funded,Higher education should be publicly funded.
+senti-norm-7999#1,9,pos,Oprah run for president of the United States in 2020,Oprah should run for president of the United States in 2020.
+senti-norm-16454#134,0,pos,"Unless behavior is threatening or disruptive, the bar for what is made illegal be very high","Unless behavior is threatening or disruptive, the bar for what is made illegal should be very high. It sets a precedent that minor inconveniences can/should be banned."
+senti-norm-23831#1,1,pos,"The UK switch its electoral system from ""first past the post"" (FPTP) to ""alternative vote"" (AT)","The UK should switch its electoral system from ""first past the post"" (FPTP) to ""alternative vote"" (AT)."
+senti-norm-1926#3,6,pos,Schools protect their students who are still minors from distressing content,Schools have a duty to protect their students who are still minors from distressing content.
+senti-norm-12100#1,7,pos,The UK Education System Consider An Overhaul,The UK Education System Should Consider An Overhaul.
+senti-norm-10120#1,9,neg,Violent video games,Violent video games should be banned to curb school shootings.
+senti-norm-23597#1,0,pos,Teachers be allowed to display their tattoos,Teachers should be allowed to display their tattoos.
+senti-norm-16173#42,1,neg,this behavior be added to basic public school teaching ,"Not all families accept this behavior, so it shouldn't be added to basic public school teaching. If these kinds of things were added, children would be constantly indoctrinated with other people's beliefs. Parents should be allowed to choose what information goes into their child's brain, and who they want them to become."
+senti-norm-4608#14,2,pos,Wealthy people have more decision-making power over who runs the government,Wealthy people should have more decision-making power over who runs the government.
+senti-norm-1335#1,4,pos,The International Olympic Committee (IOC) create a permanent venue for the Olympic Games,The International Olympic Committee (IOC) should create a permanent venue for the Olympic Games.
+senti-norm-15900#1,5,pos,Renewable energy sources and sufficient energy storage replace fossil fuels for grid power,Renewable energy sources and sufficient energy storage should replace fossil fuels for grid power.
+senti-norm-7721#1,6,pos,humans become immortal,"If scientifically possible, humans should become immortal."
+senti-norm-12002#55,7,pos,collected expressly for the purposes of unethical use in and of itself be considered unethical,"If collected expressly for the purposes of unethical use, then that collection in and of itself should be considered unethical."
+senti-norm-14272#1,8,neg,The US Pulled Out of the Iran Deal,The US Should Not Have Pulled Out of the Iran Deal.
+senti-norm-1474#84,0,pos,be more lenient on pedophiles by reducing the severity of their convictions,We should be more lenient on pedophiles by reducing the severity of their convictions.
+senti-norm-1414#29,1,pos,"Certain work, privacy to perform effectively",Certain work requires privacy to perform effectively.
+senti-norm-18634#1,2,neg,Men be forced to pay child support if abortion is a woman's right,Men should not be forced to pay child support if abortion is a woman's right.
+senti-norm-9812#1,4,pos,Empathy be taught in school,Empathy should be taught in school.
+senti-norm-16288#1,5,pos,"Except for those in absolute poverty, everyone tithe (choose to give a tenth of income to charity)","Except for those in absolute poverty, everyone should tithe (choose to give a tenth of income to charity)."
+senti-norm-11268#1,7,pos,build Lagrange colonies before settling on mars,We should build Lagrange colonies before settling on mars
+senti-norm-24252#11,8,pos,The European Union focus on its numerous internal problems before considering any further expansion,The European Union should focus on its numerous internal problems before considering any further expansion.
+senti-norm-11175#1,0,pos,Lawns be replaced by edible landscapes,Lawns should be replaced by edible landscapes.
+senti-norm-30188#7,1,pos,Colleges have the right to consider all factors when selecting students,Colleges have the right to consider all factors when selecting students.
+senti-norm-486#2296,2,neg,"tell your friends and acquaintances, when asked, all their flaws","You would have to tell your friends and acquaintances, when asked, all their flaws, which would reduce their self-confidence significantly and would cause a lot of jealousy and distress."
+senti-norm-5064#1,3,pos,A higher gas tax be introduced to pay for infrastructure,A higher gas tax should be introduced to pay for infrastructure so that income tax can be reduced accordingly.
+senti-norm-17649#1,4,pos,Mankind resurrect extinct species,Mankind should resurrect extinct species.
+senti-norm-18432#1,6,neg,Military Air Shows,Military Air Shows should be discontinued.
+senti-norm-7738#243,7,pos,"something other than what currently ""is"" To justify how things ""ought"" to be","This is Hume's is/ought distinction. To justify how things ""ought"" to be, you need something other than what currently ""is""."
+senti-norm-2995#1,8,pos,Stand,Stand
+senti-norm-13623#1,9,pos,Internet Access Be a Basic Human Right,Internet Access Should Be a Basic Human Right.
+senti-norm-4272#1,0,pos,an independent Kurdish state,There should be an independent Kurdish state.
+senti-norm-801#2121,1,neg,Capital punishment in the United States,"Killing people, in order to punish people who kill people is circular destructive reasoning. Beyond that, the conscience of the individual(s) who terminate the life of another is irreparably burdened. Capital punishment must be abolished in the United States."
+senti-norm-4401#393,3,neg,The material be difficult to teach,"The material can be fairly straightforward and with the proper training, should not be difficult to teach."
+senti-norm-12788#17,4,pos,"in a market economy, you pay for goods","That doesn't mean the product itself is not good - in a market economy, you have to pay for goods."
+senti-norm-13057#1,5,pos,States require a mandatory drug testing for welfare recipients,States should require a mandatory drug testing for welfare recipients.
+senti-norm-17763#1,6,pos,A child's primary carer receive a wage from the government until the child enters primary school or some other form of care,A child's primary carer should receive a wage from the government until the child enters primary school or some other form of care.
+senti-norm-5601#6,8,neg,"America, another divisive political drama",After the division of the 2016 election America does not need another divisive political drama.
+senti-norm-9906#14,9,pos,"The EU, genuine leaders elected by democratic process",The EU needs genuine leaders elected by democratic process. Few will respect the self appointed.
+senti-norm-26876#294,1,neg,ban private donations,"It is not necessary to ban private donations; rather, legislation can be used to reduce the likelihood of corporate influence."
+senti-norm-10068#1,2,pos,Homework be mandatory,Homework should be mandatory.
+senti-norm-7872#48,4,neg,VR be a complete substitute for human interaction,VR should not be a complete substitute for human interaction.
+senti-norm-13623#6,5,pos,Human rights be reserved for those keys to physical and emotional survival,Human rights should be reserved for those keys to physical and emotional survival.
+senti-norm-17649#51,6,pos,focus on protecting existing species which are threatened,"We should focus on protecting existing species which are threatened, not on resurrecting those which are already extinct."
+senti-norm-2853#1,7,neg,The US try to force North Korea to abandon its nuclear program,The US should not try to force North Korea to abandon its nuclear program.
+senti-norm-8606#337,8,neg,Public universities be tuition free if the funding comes from the government,"Public universities should not be tuition free. Not if the funding comes from the government. Government should tax only to provide for national defense, criminal law enforcement and other functions directly related to the prohibition of initiating force, fraud or theft. It is immoral to make others pay for one's education. A free marketplace will provide an education more efficiently than a government education paid for by unwilling taxpayers."
+senti-norm-4479#16,9,pos,Europe act to avoid instability in Catalonia,Catalonia is a key contributor to the European economy. Europe must act to avoid instability in the region.
+senti-norm-24623#1,0,pos,All political offices have an age cap,All political offices should have an age cap.
+senti-norm-6980#1,1,pos,Quebec become an independent country,Quebec should become an independent country.
+senti-norm-15978#70,2,neg,It be legally enforced,It would be preferable but should not be legally enforced.
+senti-norm-4401#415,5,pos,States fulfil their democratic mandates,States have the obligation to fulfil their democratic mandates.
+senti-norm-14410#1,6,pos,Developed countries reduce the working year,Developed countries should reduce the working year.
+senti-norm-1563#1,7,pos,Usage of Nematode be legalised to secure vulnerable IoT devices without their owners' knowledge or consent,Usage of Nematode should be legalised to secure vulnerable IoT devices without their owners' knowledge or consent.
+senti-norm-14055#14,9,pos,The government be generally viewed with scepticism,"The government should be generally viewed with scepticism. As the NSA spying scandal showed, the government doesn't exclusively use data in the way it is supposed to. For instance, such data could be used to hunt down the family members of illegal immigrants."
+senti-norm-8547#1,0,pos,Catalans have the right to decide on independence with a binding referendum,Catalans should have the right to decide on independence with a binding referendum
+senti-norm-9576#190,1,pos,The members of the Church be more unified than the citizens of a democratic country,"The members of the Church should be more unified than the citizens of a democratic country, as all Church members adhere to the same core belief as followers of Catholicism."
+senti-norm-16566#1,4,pos,"Society work towards becoming ""colorblind"" in regards to race/ethnicity","Society should work towards becoming ""colorblind"" in regards to race/ethnicity."
+senti-norm-8457#1,5,pos,"The ""Poor"" be a protected equality group","The ""Poor"" should be a protected equality group."
+senti-norm-14770#1,7,neg,Society using Facebook,Society should stop using Facebook.
+senti-norm-16560#67,8,pos,some distinguishing between short-term and long-term effects here,"There must be some distinguishing between short-term and long-term effects here. The child may grow to become a CEO of DuPont and poison Flint Michigan \[as the real DuPont did\], as a hypothetical example."
+senti-norm-30857#3,1,pos,Healthcare transparency in the United States (HIPAA is in the way),Healthcare needs more transparency in the United States (HIPAA is in the way)
+senti-norm-2903#1,3,pos,"The primary focus of prisons be rehabilitation and reintegration, not punishment","The primary focus of prisons should be rehabilitation and reintegration, not punishment."
+senti-norm-4841#1,4,pos,The punishment for convicted rapists be to have one testicle surgically removed,The punishment for convicted rapists should be to have one testicle surgically removed.
+senti-norm-8708#1,6,pos,The UK remain in the EU if a hard Brexit is the only alternative option,The UK should remain in the EU if a hard Brexit is the only alternative option.
+senti-norm-2469#1,8,neg,The electoral college,The electoral college should be abolished.
+senti-norm-1922#19,9,pos,Women preserve their nudity for their partners,Women should preserve their nudity for their partners.
+senti-norm-12158#30,0,pos,carry out adaptations,Would encourage people to carry out adaptations
+senti-norm-1413#2,1,pos,"All forms of sex work, including prostitution be legal, for buyers and sellers, but heavily regulated","All forms of sex work, including prostitution, should be legal, for buyers and sellers, but heavily regulated."
+senti-norm-4237#235,2,pos,the UK enforce some Overfishing limits,These EU strictures exist for a reason. Overfishing is a serious issue and the UK will still have to enforce some limits.
+senti-norm-1154#1,4,pos,Apple give in to all the FBI's demands and provide authorities with a signed iOS update that allows for brute force attacks,Apple should give in to all the FBI's demands and provide authorities with a signed iOS update that allows for brute force attacks.
+senti-norm-1785#759,6,neg,"In political decision-making, efficiency and speed","In political decision-making, efficiency and speed are less important than the quality of policies produced. Otherwise, not only referendums, but also elections and democracy as a whole would have to be called into question."
+senti-norm-5292#7,7,neg,celebrate criminals and other reprehensible individuals,"The creators of great artworks are generally credited and often celebrated, and we must not celebrate criminals and other reprehensible individuals."
+senti-norm-29207#1,8,neg,the give away shop,Stop with the give away shop
+senti-norm-2024#1,9,neg,Zoos,Zoos should be forbidden.
+senti-norm-5850#400,1,neg,the exercise of 'basic freedoms' by white supremacist groups be protected,"If a causal link can be drawn between the speech acts of white supremacist organisations and violence committed by individuals, which it can, then it means that the exercise of 'basic freedoms' by white supremacist groups can in some instances themselves be violent and should therefore not be protected."
+senti-norm-13817#1,4,pos,Burning the US flag be against the law,Burning the US flag should be against the law.
+senti-norm-9269#40,5,neg,"the government regulate what goes into your body, or your child's body","This is an obvious violation of privacy and bodily autonomy. Having the government regulate what goes into your body, or your child's body, is not a power the government should have."
+senti-norm-7304#9,7,neg,Society be responsible for paying for other individual's poor health or choices,Society shouldn't be responsible for paying for other individual's poor health or choices.
+senti-norm-3371#856,8,pos,People tailor their beliefs,"People should tailor their beliefs, rather than follow any specific religion."
+senti-norm-9878#1,9,neg,"US intelligence agencies, mass data collection",US intelligence agencies should stop mass data collection.
+senti-norm-4013#1,0,pos,Ireland Repeal the 8th Amendment,Ireland Should Repeal the 8th Amendment
+senti-norm-16035#1,1,pos,Congress and the Senate impose term limits on Representatives,Congress and the Senate should impose term limits on Representatives
+senti-norm-26876#68,2,pos,secure private donations,The need to secure private donations filters out politicians and political parties with certain political viewpoints and approaches from being elected.
+senti-norm-19334#1,4,pos,an FBI investigation into the Kavanaugh allegations,There should be an FBI investigation into the Kavanaugh allegations
+senti-norm-9124#1,5,pos,Health care providers be mandated to get the flu vaccine,Health care providers should be mandated to get the flu vaccine.
+senti-norm-30161#12,6,pos,Politicians be able to fully devote their time and energy to their office,"Politicians should be able to fully devote their time and energy to their office. With compulsory hours for charitable activities, they will have to face problems like fatigue and exhaustion which may make them less productive during their office hours."
+senti-norm-30347#682,7,neg,Trump be an exception,Evangelicals have forgiven influential people and other politicians for doing worse things. There's no reason why Trump should be an exception.
+senti-norm-16026#1,8,pos,Italy welcome migrants,Italy should welcome migrants.
+senti-norm-14699#2,0,pos,If a person consents to or asks to be eaten it be permissible,"If a person consents to or asks to be eaten, it should be permissible to act on this."
+senti-norm-12626#83,1,pos,Children learn in a religiously neutral setting,Children have a right to learn in a religiously neutral setting.
+senti-norm-4148#724,2,pos,Humans protect human lives over the lives of animals,Humans have a moral duty to protect human lives over the lives of animals.
+senti-norm-2856#1,3,neg,Short term apartment leasing services such as Airbnb in New York City,Short term apartment leasing services such as Airbnb should be prohibited in New York City.
+senti-norm-8516#446,5,neg,Voting be denied to citizen capable of understanding a ballot and communicating how they wish to fill it,Voting is a right and should be denied to no citizen capable of understanding a ballot and communicating how they wish to fill it.
+senti-norm-17066#5,6,pos,Politicians a second income to meet the needs of their household,Politicians often need a second income to meet the needs of their household.
+senti-norm-29870#103,7,pos,Some deeds be deterred with Hell,"Some deeds are beyond forgiving, Therefore, they need to be deterred with Hell."
+senti-norm-7304#2,9,pos,Health care remain a privilege,"Health care should remain a privilege, not a right."
+senti-norm-17856#1,0,pos,Voting by Mail be the standard in all US elections,Voting by Mail should be the standard in all US elections.
+senti-norm-16093#25,1,neg,Breasts be exposed in public,Breasts should not be exposed in public as they are a sexual organ.
+senti-norm-7776#34,2,pos,"Every religion, a reform to be compatible with the modern world",Every religion needs a reform to be compatible with the modern world. We need to simply detach politics/life with religion and ideology. They can co-exist but one should not influence the other.
+senti-norm-2217#1,4,neg,Protesting in front of abortion clinics,Protesting in front of abortion clinics should be prohibited.
+senti-norm-10250#378,5,pos,have the right kind of foreign relations and a stable economy,It is more important to have the right kind of foreign relations and a stable economy than to educate the people on the significance of a referendum.
+senti-norm-8708#231,6,neg,"If someone can consider themselves to be from Lancashire, England, and the United Kingdom, be difficult to also identify as European","The UK contains five national identities, each with their own flag, and even some counties within England, such as Lancashire, have their own flag. If someone can consider themselves to be from Lancashire, England, and the United Kingdom, it should not be difficult to also identify as European."
+senti-norm-7055#915,8,pos,such a powerful theme have come from a character who was already introduced or developed from The Force Awakens,DJ's betrayal isn't heart-wrenching because of his shallow character build and limited screen time. To introduce such a powerful theme from a character we haven't met before is indicative of the films weak storytelling. It should have come from a character who was already introduced or developed from The Force Awakens.
+senti-norm-29365#199,0,pos,minors have legal guardians,The fundamental idea of being a minor is that they are not mature enough to make decisions with lifelong consequences - which is why minors must have legal guardians.
+senti-norm-13187#13,3,pos,"a chance for repentance, rehabilitation and reintegration for those who made the mistake of joining ISIS and regretted it","There should be a chance for repentance, rehabilitation and reintegration for those who made the mistake of joining ISIS and regretted it."
+senti-norm-14050#1,4,pos,Children boredom,Children need boredom.
+senti-norm-8756#1,5,pos,"discuss topics in person, rather than through online text-based mediums","It is better to discuss topics in person, rather than through online text-based mediums."
+senti-norm-16513#1,6,pos,act as if free will does exist,"Assuming that free will does not exist, it is better to act as if it does."
+senti-norm-27060#1,8,neg,International tourism require a visa,International tourism should not require a visa.
+senti-norm-9563#1,9,pos,The government provide funding for arts programs,The government should provide funding for arts programs
+senti-norm-22454#1,4,neg,Governments set policies that limit free speech,Governments should not set policies that limit free speech.
+senti-norm-17775#1,6,pos,U.S. military spending be lowered in favor of other programs,U.S. military spending should be lowered in favor of other programs.
+senti-norm-7304#1,8,pos,Health care be considered a human right,Health care should be considered a human right.
+senti-norm-17848#3,1,neg,Debate of undue emotion,"Debate should be devoid of undue emotion. The visceral reactions to these words do not enhance human interaction, but rather devolve them."
+senti-norm-7121#6,2,pos,"live for the moment, and enjoy whatever you want","It's best just to live for the moment, and enjoy whatever you want. Maybe exercise a bit."
+senti-norm-984#357,3,neg,sexual desires be suppressed,There is no reason sexual desires should be suppressed.
+senti-norm-10214#1,4,pos,Sensitive social and political topics be discussed in school,Sensitive social and political topics should be discussed in school.
+senti-norm-18131#1,6,pos,The Baphomet statue be installed at the Arkansas Court house,The Baphomet statue should be installed at the Arkansas Court house
+senti-norm-12650#10,7,pos,Constitutions cover only general principles,Constitutions must cover only general principles and not specific topics.
+senti-norm-14198#1,0,pos,Computer and Technology Education for kids begin as early as three years old,Computer and Technology Education for kids should begin as early as three years old.
+senti-norm-18593#521,1,neg,"A right being less fundamental come at the expense of a fundamental right, such as freedom of religion","A right being less fundamental does mean that it should not come at the expense of a fundamental right, such as freedom of religion."
+senti-norm-3353#413,2,neg,Same sex relationships have the same legal status as marriage,Same sex relationships should not have the same legal status as marriage because it relates to physiological different processes.
+senti-norm-7405#5,4,pos,Changing the time be remembered,Changing the time takes some effort and has to be remembered.
+senti-norm-2799#1,5,pos,Health care be voluntary and market provided,"Health care should be voluntary and market provided, not mandatory, nor provided or regulated by government."
+senti-norm-17173#1,6,pos,Oil and gas companies release their cleantech patents into the public domain,Oil and gas companies should release their cleantech patents into the public domain.
+senti-norm-9060#1,7,neg,Cigarettes,Cigarettes should be banned.
+senti-norm-12304#1492,8,neg,The similarities between where feminism is going and early 1930s Germany be ignored as this academic hoax proves,"It should when the minority is more vocal and active than the majority, The National socialists where a bunch of fanatics in early 1930s Germany that were left unchallenged. We all know how that ended. The similarities between where feminism is going and then must not be ignored as this academic hoax proves."
+senti-norm-29906#4,9,pos,Nazis pay for the crimes they committed,Nazis deserve to pay for the crimes they committed.
+senti-norm-9576#1,2,pos,The Catholic Church publicly elect its leaders,The Catholic Church should publicly elect its leaders.
+senti-norm-963#15,3,pos,a young woman be allowed to decide whether to have an abortion and whether to choose to involve her parents in the decision about an abortion,"If a young woman has decided to become sexually active, she should be allowed to decide whether to have an abortion and whether to choose to involve her parents in the decision about an abortion."
+senti-norm-5601#872,4,pos,Trump be impeached on political grounds,Trump should be impeached on political grounds.
+senti-norm-14247#111,5,pos,A civilised society a political discourse where issues can be discussed on their merits,"A civilised society needs a political discourse where issues can be discussed on their merits, without discussions getting derailed by ad-hominem attacks."
+senti-norm-21674#3,6,pos,learn to harness their urges,Everyone is responsible for his or her own behaviour and has to learn to harness their urges.
+senti-norm-16026#14,7,pos,Italy or any other western country welcome the newcomers,"Italy or any other western country cannot stop people from trying to enter, so they might as well welcome the newcomers so that those people actually try to integrate."
+senti-norm-18293#1,9,pos,The use of aerial-dropped 1080 poison,The use of aerial-dropped 1080 poison should be encouraged.
+senti-norm-23850#302,0,pos,justices use their judgement and understanding of the structure and history of the Constitution to come up with a new workable legal rule,"Cases often come to the Supreme Court precisely because there is no clear legal answer, and justices have to use their judgement and understanding of the structure and history of the Constitution to come up with a new workable legal rule."
+senti-norm-28423#19,1,pos,Millennials deal with and live through the long term repercussions of today's political decisions,"Millennials will be the ones who have to deal with and live through the long term repercussions of today's political decisions, including those of the European Parliament."
+senti-norm-14053#1,3,pos,Governments provide a universal basic income,Governments should provide a universal basic income.
+senti-norm-23911#1,6,pos,The NTSC version of Super Smash Bros. Melee be adopted in Europe,The NTSC version of Super Smash Bros. Melee should be adopted in Europe.
+senti-norm-19171#1,7,pos,The United States and Mexico become one nation,The United States and Mexico should become one nation.
+senti-norm-1128#1,8,pos,Countries that accept refugees confiscate their valuables worth more than €1500,Countries that accept refugees must confiscate their valuables worth more than €1500.
+senti-norm-8246#148,0,pos,taxes be lowered,"Taxes in the US are too high already. Thus, taxes should be lowered instead of increased (especially the high capital gains tax)."
+senti-norm-16618#1,1,pos,pay off your mortgage early,You should pay off your mortgage early
+senti-norm-9784#1,2,pos,Vitamin C in severe sepsis be given some weight and researched thoroughly,Vitamin C in severe sepsis should be given some weight and researched thoroughly.
+senti-norm-7865#1026,3,pos,keep using Representative Democracy,"Representative Democracy correlates with the most peaceful, prosperous, educated and free time in world history, so we should keep using it."
+senti-norm-22143#1,4,pos,tip workers in the service industry,You should tip workers in the service industry.
+senti-norm-16566#107,6,pos,a large amount of diversity in humans be embraced,"There is a large amount of diversity in humans, and that should be embraced, not ignored."
+senti-norm-8267#1,7,neg,Gerrymandering,Gerrymandering should be abolished.
+senti-norm-10408#12,9,pos,When people choose someone to represent their will be sure that this leader trusts these people,"When people choose someone to represent their will, they need to be sure that this leader trusts these people. A public leader's life belongs to their people. So not a single action of such people should be secret from those who elected them."
+senti-norm-9903#1,0,pos,India have a Universal Basic Income (UBI),India should have a Universal Basic Income (UBI).
+senti-norm-28280#1,1,pos,North African countries be allowed to be part of the EU,North African countries should be allowed to be part of the EU.
+senti-norm-1764#1,2,neg,Social justice movements use of no-platforming at universities,Social justice movements should abandon the use of no-platforming at universities
+senti-norm-1592#3,3,pos,"Agree but cheat on the agreement,","Option ""Two"": Agree but cheat on the agreement, as best we can."
+senti-norm-18387#1,5,neg,bottled water,We should get rid of bottled water.
+senti-norm-3346#6151,6,pos,only those who can prove to have been harmed by the act be compensated,"A particular crime from a single perpetrator can have many individual victims, yes. However, only those who can prove to have been harmed by the act should be compensated. ""All of society"" should not be able to seek damages."
+senti-norm-12626#1,7,neg,Teachers be allowed to wear religious symbols at school,Teachers should not be allowed to wear religious symbols at school
+senti-norm-30884#3,9,pos,The Universal Declaration of Human Rights (UDHR) be legally binding,The Universal Declaration of Human Rights (UDHR) should be legally binding.
+senti-norm-6148#6,0,pos,All speech be free,All speech should be free.
+senti-norm-7600#1,1,pos,Esperanto be adopted internationally,Esperanto should be adopted internationally.
+senti-norm-7352#5,2,pos,purge entire collections of art,If we remove the Balthus because it offends some people we would have to purge entire collections of art since judging if something is offensive or not is completely subjective.
+senti-norm-19648#1,4,pos,"The legal voting age in the USA be lowered to 16, provided that the voter is attending school","The legal voting age in the USA should be lowered to 16, provided that the voter is attending school."
+senti-norm-17750#1,5,neg,Alex Jones and Inforwars from Social Media sites such as Facebook and YouTube,It was right to ban Alex Jones and Inforwars from Social Media sites such as Facebook and YouTube.
+senti-norm-9841#1,6,pos,Virtual/Augmented Reality Technology replace human cadavers [dead bodies] to learn anatomy in medical school,Virtual/Augmented Reality Technology should replace human cadavers [dead bodies] to learn anatomy in medical school
+senti-norm-10074#27,8,neg,"a lot of other things (films, books, newspapers, TV)","People who are influenced by advertisement are susceptible to all kinds of influence, so we would need to ban a lot of other things (films, books, newspapers, TV)"
+senti-norm-7487#75,9,neg,Workplaces with vertical farms resources for climate control,"Workplaces with vertical farms need less resources for climate control, as the plants provide it instead."
+senti-norm-801#1,0,neg,Capital punishment in the United States,Capital punishment should be abolished in the United States.
+senti-norm-26929#42,1,pos,Politicians and parties address the population as a whole,Politicians and parties would have to address the population as a whole instead of only those groups that currently vote. This would make politics more inclusive and egalitarian.
+senti-norm-4458#1,2,neg,Democrats cooperate with Donald Trump’s presidency,Democrats should not cooperate with Donald Trump’s presidency.
+senti-norm-13348#212,3,pos,The elderly and older generations be the principal payers of television,"The elderly and older generations are the main viewers of television nowadays. They should therefore be the principal payers, rather than further burdening younger generations."
+senti-norm-16712#1,6,pos,"The U.S. adopt the ""Right to be Forgotten"" on the web","The U.S. should adopt the ""Right to be Forgotten"" on the web."
+senti-norm-7352#6,8,pos,Art be judged by the reaction it gets from its viewers,Art should be judged by the reaction it gets from its viewers. The current response is testament to the piece's effectiveness as a work of art.
+senti-norm-13517#2,0,pos,A doctor or physician be obligated to comply with requests made by either the patient and/or their next-of-kin without question,A doctor or physician should be obligated to comply with requests made by either the patient and/or their next-of-kin and should do so without question.
+senti-norm-30015#27,3,pos,What constitutes infidelity be mutually agreed upon,"What constitutes infidelity varies between people and relationships, and therefore needs to be mutually agreed upon."
+senti-norm-1108#1,4,pos,The U.S. use nuclear weapons to achieve its goal of Japan unconditionally surrendering,The U.S. had to use nuclear weapons to achieve its goal of Japan unconditionally surrendering.
+senti-norm-4148#34,5,pos,Animals be preserved,Animals should be preserved in order to eradicate ethics.
+senti-norm-20564#1,6,pos,Kialo separate impact voting into relevance and veracity of claim,Kialo should separate impact voting into relevance and veracity of claim. TLDR
+senti-norm-4624#1,7,pos,The United States a Strong Political Party For Moderates,The United States Needs a Strong Political Party For Moderates
+senti-norm-12546#1,0,neg,The lottery,The lottery should be banned.
+senti-norm-24839#1,1,pos,The age of consent be lowered to 14,The age of consent should be lowered to 14.
+senti-norm-14350#1,3,neg,Anonymous sperm donation,Anonymous sperm donation should be illegal.
+senti-norm-18042#2,4,pos,"""Women-only"" spaces include non-binary people as well","""Women-only"" spaces should include non-binary people as well."
+senti-norm-27376#21,5,pos,In order to create use our own thoughts and ideas,"Creativity is a related term of creation. In order to create we have to use our own thoughts and ideas not the ideas of others. Those can be valid for inspiration, not straight-up copy-pasting."
+senti-norm-2995#1381,8,neg,Political protests happen at the workplace,Political protests should not happen at the workplace.
+senti-norm-29497#1,9,pos,The United States attack Iran,The United States should attack Iran.
+senti-norm-4479#10,0,pos,Catalonia's autonomy be protected,Catalonia's autonomy must be protected to avoid similar repression by any member state government.
+senti-norm-10134#1,1,pos,Hate speech be legally protected,Hate speech should be legally protected.
+senti-norm-801#321,3,neg,The US death penalty,Most major democracies have abolished and condemned the death penalty. The US should not be different.
+senti-norm-22454#42,7,pos,Discussion of abortion rights in Brazil,Discussion of abortion rights in Brazil was offensive for some people who were religious as it violated their religious beliefs. Yet it is still important to have those discussions.
+senti-norm-7352#1,8,pos,"The Metropolitan Museum of Art remove Balthus' painting, Thérèse Dreaming","The Metropolitan Museum of Art should remove Balthus' painting, Thérèse Dreaming."
+senti-norm-10134#838,9,neg,tolerate the intolerant,Unlimited tolerance can lead to the extinction of tolerance. Defending tolerance requires to not tolerate the intolerant.
+senti-norm-10068#5,0,neg,Schools outsourcing teaching to parents in the form of homework,Schools should not be outsourcing teaching to parents in the form of homework.
+senti-norm-4555#1,2,neg,Schools grades,Schools should eliminate grades and replace them with competency based education.
+senti-norm-4555#22,4,pos,Grades establish specific thresholds,Grades are necessary to establish specific thresholds.
+senti-norm-9396#1,5,neg,"Germany armed forces (""Bundeswehr"")","Germany should dissolve its armed forces (""Bundeswehr"")."
+senti-norm-10134#41,6,pos,Laws reflect the will of society,"Laws should reflect the will of society. If society believes an act is immoral, the government should legislate to prevent people engaging in such an act."
+senti-norm-13269#1,7,pos,STEM degrees be free,STEM degrees should be free.
+senti-norm-12158#19,9,pos,specialised knowledge to understand the range of options available to a person,One person cannot possibly have the expertise to understand the range of options available to a person. For that you need specialised knowledge
+senti-norm-985#1967,1,pos,"if we find life, our surroundings or some circumstances difficult to cope with, we have a way out","None of us chose to be born, at least not consciously, and if we find life, our surroundings or some circumstances difficult to cope with, we should have a way out. Some people do not want to live, and I think that it would only be fair to give them this option to do this in a more ''clean'' way instead of traditional suicide which can be really messy and hard for the families. Also, there is already too many of us on this planet, why should we force someone to live if they do not want to."
+senti-norm-14198#26,2,pos,understand how to make best use of Computers,"Computers are a part of everyday life these days, so people should understand how to make best use of them."
+senti-norm-14255#6,3,neg,Churches be given a tax exemption on the basis of being a charitable organisation,"Churches often pursue private rather than public goals, and therefore should not be given a tax exemption on the basis of being a charitable organisation."
+senti-norm-1413#1,4,pos,Buying and selling sex be legal for sex workers and their clients,Buying and selling sex should be legal for sex workers and their clients.
+senti-norm-18052#4,5,pos,Modern society embrace diversity,"Modern society should embrace diversity, so it should embrace things like Tarot too."
+senti-norm-30884#11,6,neg,The values expressed in the UDHR be forced upon them,The values expressed in the UDHR do not apply to every culture and should not be forced upon them.
+senti-norm-18042#97,7,neg,"people often accused of transphobia, their opinions be taken into account","The protesters included people often accused of transphobia. As a result, their opinions should not be taken into account."
+senti-norm-12278#1,8,pos,The government be involved in the lives of its citizens as little as possible,The government should be involved in the lives of its citizens as little as possible.
+senti-norm-2851#1,9,neg,Conscientious objection to abortion,Conscientious objection to abortion should be banned
+senti-norm-2160#1,1,neg,Tourism to North Korea,Tourism to North Korea should be banned.
+senti-norm-3454#1,2,pos,Citizens be able to crowdsource the laws in their nation - collaborating and debating their language online,Citizens should be able to crowdsource the laws in their nation - collaborating and debating their language online. (The ratification of laws online is not necessarily implied - just online co-creation of proposed legislation).
+senti-norm-22084#1,5,pos,The UN Charter be the constitution of the world,The UN Charter should be the constitution of the world.
+senti-norm-5212#37,8,pos,Corbyn be replaced,Corbyn being leader makes the Labour Party unlikely to come to power. He should be replaced even if it is difficult to oust him.
+senti-norm-16381#13,2,pos,The victim have nothing to worry about if the accusations are true,The victim should have nothing to worry about if the accusations are true.
+senti-norm-1955#1,3,pos,fully immersive virtual reality be subject to all of our existing laws,If fully immersive virtual reality is developed it should be subject to all of our existing laws.
+senti-norm-3185#20,4,neg,we avert ecological collapse,"According to the traditions of the monotheistic religions, we need a period of total destruction to produce ""The Rapture"" when those who love God (Jesus or Allah) go to Heaven while everybody else goes to Hell. Therefore, we shouldn't avert ecological collapse - we should accelerate it."
+senti-norm-2091#1,5,pos,The US Recognize Palestine as a State,The US Should Recognize Palestine as a State.
+senti-norm-23856#1,6,pos,Competitive international football be shown live on free to air broadcasters,Competitive international football should be shown live on free to air broadcasters.
+senti-norm-1325#1,8,pos,Executions be painful,Executions should be painful.
+senti-norm-6492#765,9,pos,Feminism address the practical rights that women have been denied,Feminism is needed to address the practical rights that women have been denied.
+senti-norm-9128#1,0,neg,Journalists publish any information that was obtained by hacking,Journalists should not publish any information that was obtained by hacking.
+senti-norm-9269#442,1,pos,all parents subject their daughters to the procedure,"In other words, if the majority of society believed in forced mastectomies to prevent cancer, all parents should subject their daughters to the procedure."
+senti-norm-1546#1,2,pos,"When facing an unavoidable accident, self-driving cars save the lives of their passengers regardless of the harm caused to others","When facing an unavoidable accident, self-driving cars should save the lives of their passengers regardless of the harm caused to others."
+senti-norm-1835#444,3,pos,Leagues already educate both athletes and the general public on issues around domestic violence be enough to discharge any moral burden on them,Leagues already educate both athletes and the general public on issues around domestic violence. This should be enough to discharge any moral burden on them.
+senti-norm-9734#1,4,pos,Cannabis be legalised for medical use in the UK,Cannabis should be legalised for medical use in the UK.
+senti-norm-2868#1,5,neg,U.S. presidents have the power to issue pardons,U.S. presidents should not have the power to issue pardons.
+senti-norm-939#1,6,pos,Polygamy be legal,Polygamy should be legal.
+senti-norm-16111#518,7,pos,governments protect conversion therapy,"Some believe LGBTQ+ lifestyles are immoral. Thus governments should, in fact, protect conversion therapy for the sake of these persons."
+senti-norm-25803#1,9,neg,Unpaid internships,Unpaid internships should be banned.
+senti-norm-14255#1,0,neg,Churches in the United States automatic tax-exempt status,Churches in the United States should lose their automatic tax-exempt status.
+senti-norm-16218#238,1,neg,The norms of academic freedom be set in stone,The norms of academic freedom should not be set in stone. Academic institutions should be flexible and adjust their behaviors to meet present day standards.
+senti-norm-18595#269,2,pos,the author believe that *some* of the administration's goals/policies are dangerous for the country,"By trying to undermine some of the Trump administration's goals, the author must believe that *some* of the administration's goals/policies are dangerous for the country."
+senti-norm-25862#1,3,pos,vegans give their pets a vegan diet,It is acceptable for vegans to give their pets a vegan diet.
+senti-norm-17783#13,4,pos,The identity of a source to validate their information,The identity of a source may be necessary to validate their information.
+senti-norm-7473#1,5,pos,A maximum wage,A maximum wage should be introduced.
+senti-norm-1592#817,6,pos,embrace Being an arm of law enforcement for the British colonial state,Being an arm of law enforcement for the British colonial state is an honorable profession. We should embrace it.
+senti-norm-30339#856,7,pos,For some to have their religious beliefs represented in the laws of their country,"For some, it is highly important to have their religious beliefs represented in the laws of their country."
+senti-norm-18590#1,9,neg,Prisons,Prisons should not exist.
+senti-norm-7304#535,0,pos,The right to health care be upheld,The right to health care is an ethical value that should be upheld.
+senti-norm-2995#1273,1,pos,NFL players be forced to stand during the National Anthem,NFL players should be forced to stand during the National Anthem.
+senti-norm-2211#1,2,pos,Democracies only provide official development assistance (ODA) to democratic countries,Democracies should only provide official development assistance (ODA) to democratic countries.
+senti-norm-10076#2,3,pos,support those in need,Nakia - support those in need.
+senti-norm-28210#1,5,pos,Reconstruction of Notre-Dame replicate and restore all original elements,Reconstruction of Notre-Dame should replicate and restore all original elements.
+senti-norm-17707#45,6,pos,a state/autonomy for each language,"People don't speak a common language, so there needs to be a state/autonomy for each language in order to prevent chaos."
+senti-norm-3654#1,7,pos,Men be involved and trusted in childcare,Men should be involved and trusted in childcare.
+senti-norm-30882#3,9,neg,"In countering terrorism, the state infringe on individual human rights","In countering terrorism, the state should never infringe on individual human rights."
+senti-norm-9762#1,0,pos,Some teachers be armed with guns,Some teachers should be armed with guns.
+senti-norm-12991#1,3,pos,a united International Women's liberation party,There should be a united International Women's liberation party.
+senti-norm-29370#188,4,pos,The EU try and prioritize those efforts where it can make the most difference,"The EU has a number of moral obligations (including duties to its own citizens, obligations to those in poverty and refugees from global violence). It should try and prioritize those efforts where it can make the most difference."
+senti-norm-18593#7,5,neg,Government intervene in the way religious organisations work,Government should not intervene in the way religious organisations work. Exemptions achieve the necessary separation of state and religion.
+senti-norm-3529#109,6,neg,spend time doing menial work,People would not have to spend time doing menial work; they could then spend their time on more interesting or pressing pursuits.
+senti-norm-18637#1,8,neg,Suicide by firearm be included in statistics about gun violence,Suicide by firearm should not be included in statistics about gun violence.
+senti-norm-15965#3,1,neg,The validity of a law depend on whether it is good or bad,"Supporters of positivism see the law and morality as separate. The validity of a law should not depend on whether it is good or bad. If it has been made correctly, it should be followed."
+senti-norm-18035#1,3,neg,The new hospital be built in downtown Utica,The new hospital should not be built in downtown Utica
+senti-norm-23597#2,5,neg,Tattoo discriminations,Tattoo discriminations should come to an end.
+senti-norm-2368#1,8,pos,A license be required to have a child (procreate),A license should be required in order to have a child (procreate).
+senti-norm-12984#1,9,neg,The US the production and distribution of genetically modified foods,The US should ban the production and distribution of genetically modified foods.
+senti-norm-5601#1,0,pos,Donald Trump be impeached,Donald Trump should be impeached.
+senti-norm-2168#1,1,neg,South Korea goal of unification with North Korea,South Korea should abandon its goal of unification with North Korea
+senti-norm-16201#1,2,neg,Heterosexual people be allowed in gay bars,Heterosexual people should not be allowed in gay bars.
+senti-norm-10134#21,3,neg,Government make every morally wrong act illegal,Government cannot and should not make every morally wrong act illegal.
+senti-norm-16322#207,4,pos,face people we don't personally agree with and show them respect,We have to face people we don't personally agree with all the time and it's very important that we show them respect and not allow it to become personal. Treating someone as subhuman is not good for society.
+senti-norm-13520#62,6,pos,AI's develop a utility/cost function that is similar to the human concept of morality,AI's must develop a utility/cost function that is similar to the human concept of morality.
+senti-norm-1926#1,7,pos,Racially insensitive words in The Adventures of Huckleberry Finn be changed when it's being taught in school,Racially insensitive words in The Adventures of Huckleberry Finn should be changed when it's being taught in school.
+senti-norm-26938#32,8,neg,wealthy people pay more tax than unwealthy ones,"It's hard to justify why wealthy people should pay more tax than unwealthy ones, as you cannot justify either, to price a product (like a TV) upon the income of the buyer. Same Service/Product - same price."
+senti-norm-1048#1,0,neg,"Facebook and Twitter, accounts of terrorist organisations, such as ISIS, from their sites","Facebook and Twitter should remove accounts of terrorist organisations, such as ISIS, from their sites."
+senti-norm-3991#1,2,pos,World Cup soccer have a backcourt foul,World Cup soccer should have a backcourt foul: a pass from the attacking half to the defending half must pass through the circle (or result in a free kick).
+senti-norm-14255#4,3,neg,"Tax exemptions automatically be granted to any organisation, including churches","Tax exemptions are a privilege and should not automatically be granted to any organisation, including churches."
+senti-norm-9197#1,4,pos,a single global language,We should have a single global language.
+senti-norm-3371#3454,5,pos,each of us a different mindset and belief system to cope with reality,Each person is different and each of us need a different mindset and belief system to cope with reality.
+senti-norm-24424#1,6,neg,Libraries having a physical presence,Libraries should stop having a physical presence and instead only exist digitally (i.e. online).
+senti-norm-7944#1,7,neg,Food service workers be required to wear gloves,Food service workers should not be required to wear gloves.
+senti-norm-9284#440,9,pos,the biological principle behind procreation and the abundant benefits it brings to the species be considered good,"If bad or morally wrong is the definition used for selfish, then the biological principle behind procreation and the abundant benefits it brings to the species must be considered good."
+senti-norm-3692#1,0,neg,welfare state,There should be no welfare state.
+senti-norm-16899#1,1,pos,Twitter add an edit button,Twitter should add an edit button
+senti-norm-21296#1,2,pos,The parties participating in elections for the European Parliament hold primary elections,The parties participating in elections for the European Parliament should hold primary elections.
+senti-norm-1474#180,4,pos,The government be the sole actor responsible for properly punishing crimes,The government should be the sole actor responsible for properly punishing crimes. It should not factor community reaction into its determination of punishment.
+senti-norm-30103#1,8,neg,"The roles an actor can play be limited by that actor’s race, gender, or sexuality","The roles an actor can play should not be limited by that actor’s race, gender, or sexuality."
+senti-norm-6844#1,1,pos,All children be taught to code in school,All children should be taught to code in school.
+senti-norm-10134#105,4,pos,"Where right to free speech is already written into the constitution or law of many countries, be defended without question","Where right to free speech is already written into the constitution or law of many countries, it should be defended without question and violation should not be tolerated."
+senti-norm-24657#1,5,pos,The US build a wall on its Mexican border,The US should build a wall on its Mexican border.
+senti-norm-14119#8,6,neg,anyone be allowed to be a parent,Because of overpopulation not anyone should be allowed to be a parent.
+senti-norm-3143#1,9,neg,Humans procreate,Humans should not procreate.
+senti-norm-13348#1,2,neg,The requirement for every UK household to have a television licence to view content from non-BBC providers,The requirement for every UK household to have a television licence to view content from non-BBC providers should be abolished.
+senti-norm-21064#1,3,neg,Inheritance,Inheritance should be abolished.
+senti-norm-17840#1,4,pos,Podcast guidelines concern content “intended as” insensitive,Podcast guidelines should concern content “intended as” rather than content that “could be construed as” insensitive.
+senti-norm-29827#1,7,pos,Individuals sentenced to life in prison be allowed to choose death instead,Individuals sentenced to life in prison should be allowed to choose death instead.
+senti-norm-1474#1140,8,pos,"They be treated using psychiatric and psychological interventions in a secure psychiatric facility, with any release being conditional on both treatment objectives and sentencing requirements","They should be treated using psychiatric and psychological interventions in a secure psychiatric facility, with any release being conditional on both treatment objectives and sentencing requirements."
+senti-norm-16322#6,0,pos,Private businesses have the right to deny service to anyone for any reason,Private businesses should have the right to deny service to anyone for any reason.
+senti-norm-22421#1,1,pos,Religion be allowed in the public spaces,Religion should be allowed in the public spaces.
+senti-norm-1324#1,3,pos,The US pay reparations for slavery,The US should pay reparations for slavery.
+senti-norm-28136#1,4,pos,Extremist parties be allowed,Extremist parties should be allowed.
+senti-norm-14956#1,5,pos,Public schools (primary and secondary) have religion as a required (not elective) course,Public schools (primary and secondary) should have religion as a required (not elective) course.
+senti-norm-13187#1,6,neg,"Those who fight for ISIS, reentry by their home countries",Those who fight for ISIS should be denied reentry by their home countries.
+senti-norm-11186#1,8,pos,Business organizations conduct decision-making discussions in writing,Business organizations should conduct decision-making discussions in writing.
+senti-norm-5850#412,9,pos,Concerns surrounding donations be subjugated to the question of whether or not an action is in line with the ACLU's core values,"Similarly, the ACLU could probably increase donations from conservatives if it stopped defending people like Edward Snowden or Chelsea Manning, but it's clear that this would be a complete betrayal of the organisation's principles. Concerns surrounding donations must be subjugated to the question of whether or not an action is in line with the ACLU's core values."
+senti-norm-16560#34,0,pos,humanity be better,"Maybe humanity should be better in that regard, and start protecting the environment better, instead of being completely wiped out."
+senti-norm-10133#1,1,pos,a cap on university tuition fees in the UK,There should be a cap on university tuition fees in the UK.
+senti-norm-27425#1,2,pos,Medical research embrace racial differences in treatment efficacy,Medical research should embrace racial differences in treatment efficacy
+senti-norm-4201#1,4,pos,The Constitution be redrafted and rewritten,The Constitution should be redrafted and rewritten.
+senti-norm-27791#774,5,pos,the EU rely on the US to defend its economic interests,"Without an army, the EU must rely on the US to defend its economic interests. An EU army would allow the union to independently protect its prosperity."
+senti-norm-3253#1,6,neg,limits on freedom of speech,There should be no limits on freedom of speech.
+senti-norm-14258#315,8,pos,we weigh marginal amounts utility for humans higher than the unknown utility of animals,"While humans can express the utility they receive from an action, animals can't. Therefore we have to weigh marginal amounts utility for humans higher than the unknown utility of animals."
+senti-norm-16218#1,0,pos,Trigger warnings be required in an educational setting,Trigger warnings should be required in an educational setting.
+senti-norm-2495#1140,1,neg,a desire to expand and dominate ,"The history of colonization is a Western-specific one, and an immoral one at that, causing great harms that still reverberate around the world today. Even if you're right that the ""human spirit"" is a desire to expand and dominate, it ought not necessarily be encouraged."
+senti-norm-2408#3,3,neg,The United States continue to honor or memorialize The Confederates,The Confederates committed treason against the United States. The United States should not continue to honor or memorialize them.
+senti-norm-30171#231,4,neg,Denominations of the same faith be considered the archetype for intrafaith marriages,Denominations of the same faith can differ significantly from one another. They should not be considered the archetype for intrafaith marriages.
+senti-norm-26938#1,6,pos,The US Implement a Wealth Tax for the Super Rich,The US Should Implement a Wealth Tax for the Super Rich
+senti-norm-444#1,7,pos,a 100% inheritance tax on all inherited wealth above 1 million Euros,There should be a 100% inheritance tax on all inherited wealth above 1 million Euros.
+senti-norm-4608#1,8,pos,Those who pay more tax have an increased number of votes,Those who pay more tax should have an increased number of votes.
+senti-norm-7738#69,9,neg,"That capability, of conceiving of things that cannot be observed, come from an external source",The human mind is capable of conceiving of things that cannot be observed. Religion itself is proof of this. That capability need not come from an external source.
+senti-norm-16419#85,0,pos,the next generation be protected,The origin of gentlemanly behaviour is that the potential carriers of the next generation should be protected.
+senti-norm-15179#1,2,pos,Individuals be allowed paid period leave,Individuals should be allowed paid period leave.
+senti-norm-30299#1,3,pos,The US create a Foreign Legion,The US should create a Foreign Legion
+senti-norm-29946#24,4,pos,people have an orgasm whenever they feel like it,Abstinence is never useful; people should have an orgasm whenever they feel like it.
+senti-norm-14416#1,5,neg,Cinco de Mayo be celebrated in the US,Cinco de Mayo should not be celebrated in the US.
+senti-norm-13449#1,6,pos,be obligatory by law to provide hitchhikers a free ride in private household's cars,It should be obligatory by law to provide hitchhikers a free ride in private household's cars.
+senti-norm-2408#1082,7,pos,"The power to control history and thus, to control the future be used as sparingly as possible","The power to take down statues also is the power to control history and thus, to control the future. This power lends itself to being employed in the service of political agendas, rather than the good of society, and should be used as sparingly as possible"
+senti-norm-26929#2,0,pos,Elected officials represent as many people as possible,"Elected officials should represent as many people as possible. The fewer people vote, the fewer are represented."
+senti-norm-15900#4,1,pos,we try to diminish Climate change effects,"Climate change stands to cause substantial economic, and ecological damage to the world, and we should try to diminish its effects."
+senti-norm-14491#448,2,pos,be educated in the ways of other cultures,People should be educated in the ways of other cultures in order to know what is considered disrespectful.
+senti-norm-2027#414,3,pos,states secure they are in an overall superb condition in terms of their data and stats,"As an actor within the market as well as object of trade (via state securities), states need to secure they are in an overall superb condition in terms of their data and stats, which are reflecting the worth of each state as well as its impact as a player."
+senti-norm-15876#29,4,pos,"Gay people visibility, and gay actors playing gay characters","Gay people need more visibility, and gay actors playing gay characters would help with that."
+senti-norm-14346#107,6,pos,taxes be removed on shaving cream and razors as well,"Men have to pay for shaving cream and razors as much as women have to pay for tampons. For the sake of gender equality, taxes should be removed on these products as well."
+senti-norm-8516#1,7,pos,Children be allowed to vote,Children should be allowed to vote.
+senti-norm-17773#1,8,pos,The EU legalize marijuana for medical and recreational use,The EU should legalize marijuana for medical and recreational use.
+senti-norm-18481#1,9,pos,Genetic engineering be easily accessible to the public,Genetic engineering should be easily accessible to the public.
+senti-norm-4650#902,2,neg,all single-winner offices,Eliminate all single-winner offices.
+senti-norm-14345#1,3,pos,Hunger Be The First Problem To Solve Before All Others,Hunger Should Be The First Problem To Solve Before All Others.
+senti-norm-10097#2,5,pos,Try to attack him and kill him before he kills you,Try to attack him and kill him before he kills you.
+senti-norm-17721#1,6,neg,Sled dog racing,Sled dog racing should be banned.
+senti-norm-30562#22,7,neg,Shutting down the Internet,"Shutting down the Internet would require government intervention, a power which the government should not have."
+senti-norm-15978#1,8,pos,The use of ‘chosen' or gender-neutral pronouns be mandatory,The use of ‘chosen' or gender-neutral pronouns should be mandatory.
+senti-norm-1922#1,9,neg,Gender restrictions on nipple showing in the US,Gender restrictions on nipple showing in the US should be eliminated.
+senti-norm-17099#1,0,pos,"Corporate entities, licensed by the government be permitted to hack back when their clients are attacked via the internet","Corporate entities, licensed by the government, should be permitted to hack back when their clients are attacked via the internet."
+senti-norm-16592#1,1,neg,Drugs be directly marketed to customers,Drugs should not be directly marketed to customers.
+senti-norm-16931#1,2,pos,Businesses be allowed to deny service to anyone,Businesses should be allowed to deny service to anyone.
+senti-norm-30410#3,3,pos,Indigenous lands be returned to Native populations,Indigenous lands should be returned to Native populations.
+senti-norm-4148#963,4,pos,circumstances in which we put animal lives ahead of human lives,There are circumstances in which we must put animal lives ahead of human lives.
+senti-norm-1027#1,5,neg,Gambling in Europe,Gambling should be prohibited in Europe.
+senti-norm-921#2742,7,neg,The one at the lever consider the immediate conundrum,"This single instance of crisis involving relatively few people in any case is insignificant in comparison to the massive systemic problem of trolley safety. The one at the lever need not consider the immediate conundrum, but rather the larger underlying question, why do we keep putting people on the track?"
+senti-norm-17045#4,0,pos,Add universal SEL screening to provide Tiered services to those who need it when they need it,Add universal SEL screening to provide Tiered services to those who need it when they need it. Identify students early and provide the required intervention early.
+senti-norm-10104#1065,1,neg,pineapples on pizza,"Because of the incredible passion people have against putting pineapples on pizza, we ought not to combine the two, thus ending existing conflict and reducing the chance of future conflict, altogether leading towards world peace."
+senti-norm-18355#8,2,neg,The UN be the opposition,"The UN does not need to be the opposition, it serves a better purpose as a unifying body and space for discussion and cooperation."
+senti-norm-7721#439,3,pos,Reaching other habitable planets for humans to continue and pass on our biological code,Reaching other habitable planets is necessary for humans to continue and pass on our biological code.
+senti-norm-10035#1,4,pos,All couples sign a prenuptial agreement before marriage,All couples should sign a prenuptial agreement before marriage.
+senti-norm-13292#1,5,pos,Governments put a tax on meat,Governments should put a tax on meat.
+senti-norm-2469#1554,6,pos,a person who inability to understand the system either learn more or refrain from participation in the process,The inability to understand the system is a good indication of a person who should either learn more or refrain from participation in the process.
+senti-norm-10220#1,7,pos,Lottery be an integral component of democratic political systems,Lottery should be an integral component of democratic political systems
+senti-norm-8987#2,9,pos,provide Domesticated animals humans' care when possible,Domesticated animals rely on humans' care to survive. We should provide such a care when possible.
+senti-norm-4711#108,0,pos,"for scarcity to stop existing and property rights to break down as a result, infinite resources","Abundant doesn't mean infinite. In order for scarcity to stop existing and property rights to break down as a result, you need infinite resources. Or, in more complete terms: as long as the resources are limited, they won't suffice to satisfy all of our unlimited wants."
+senti-norm-9647#1,1,neg,Homeschooling,Homeschooling should be banned.
+senti-norm-29370#1,2,pos,The EU introduce a carbon tax,The EU should introduce a carbon tax.
+senti-norm-9746#1,3,neg,The sale of semi-automatic rifles (external box magazine),The sale of semi-automatic rifles (external box magazine) should be banned.
+senti-norm-1955#3,5,pos,Activities exclusive to virtual economies be afforded the same set of protections as those in the real economy,Activities exclusive to virtual economies should be afforded the same set of protections as those in the real economy.
+senti-norm-30171#1,6,pos,People marry outside their religious faith,People should marry outside their religious faith.
+senti-norm-16863#1,8,neg,political parties in the USA,There should be no political parties in the USA.
+senti-norm-1473#315,9,neg,The government permit actions which cannot be consented to and are antithetical to accepted societal values,The government should never permit actions which cannot be consented to and are antithetical to accepted societal values.
+senti-norm-16068#847,0,neg,places where people can be naked in public be extended to the whole public space,"There are already defined places where people can be naked in public. As to respect everyone's opinion and differences, this shouldn't be extended to the whole public space."
+senti-norm-13520#64,4,pos,AIs solve problems to survive,AIs must solve problems to survive!
+senti-norm-6467#12,5,pos,only hit space once,One only needs to hit space once.
+senti-norm-14974#9,7,pos,"In a democracy, Everyone be given a voice","In a democracy is everyone equal, despite your gender. Everyone should be given a voice."
+senti-norm-9059#1,8,pos,"Tezos use fully token-based voting: one Tezzie, one vote","Tezos should use fully token-based voting: one Tezzie, one vote"
+senti-norm-13517#4,9,pos,"After clearing a full-scale medical, background, and psychological test to determine if a patient has few other alternatives, physician-assisted death be allowed","After clearing a full-scale medical, background, and psychological test to determine if a patient has few other alternatives, physician-assisted death should be allowed."
+senti-norm-17763#6,0,pos,Child raising receive economic recognition,Child raising benefits society just as much as any other job and therefore should receive economic recognition.
+senti-norm-13386#1,2,pos,The United States act as the global police,The United States should act as the global police.
+senti-norm-8606#229,5,neg,Access to knowledge have a price tag attached to it,Access to knowledge should not have a price tag attached to it.
+senti-norm-16186#18,6,pos,"the privacy rights of individuals, as well as business secrets be maintained","This is highly case-dependent because the privacy rights of individuals, as well as business secrets, must be maintained. Regulatory mechanisms preventing corruption and tax-evasion can still be installed by requiring accounts of politicians, parties, and companies etc. to be public for supervisory bodies."
+senti-norm-4650#495,7,pos,some of the issues with how the FPTP system implemented be tried first,"Rather than changing from the FPTP system, some of the issues with how it's implemented should be tried first. First and foremost (esp. in Presidential elections), every state should award it's electoral votes (EVs) proportionally instead of in winner-takes-all fashion. So, if a state has 10 EVs and people vote for 3 candidates 40, 30, and 20%, then candidate A gets 4 EVs, Candidate B gets 3 EVs, and Candidate C gets 2 EVs. This would largely address the representation issue of FPTP."
+senti-norm-17733#1,8,pos,All dating sites include background checks,All dating sites should include background checks.
+senti-norm-9716#1,1,pos,There be automatic voter registration,There should be automatic voter registration.
+senti-norm-18668#1,2,neg,U.S. Senators be elected by popular vote,U.S. Senators should no longer be elected by popular vote.
+senti-norm-4711#1,3,pos,Private property exist in outer space,Private property should exist in outer space.
+senti-norm-3871#12,5,pos,The educational agenda in many countries shift towards more sustainability based education at schools and universities,The educational agenda in many countries has to shift towards more sustainability based education at schools and universities. Especially engineers and technicians are much needed by the RE industry. The important thing is to keep people from pursuing a career in the fossil fuel based industries and thereby prevent job losses in the future.
+senti-norm-12228#1,6,pos,Cannabis be federally legalized in the United States,Cannabis should be federally legalized in the United States.
+senti-norm-2762#1,7,pos,All humans be vegan,All humans should be vegan.
+senti-norm-3346#2946,8,pos,Individuals be responsible to demonstrate and prove that they are responsible and fit for gun ownership,Placing the onus on the state removes responsibility from the individual. Individuals should instead be responsible to demonstrate and prove that they are responsible and fit for gun ownership.
+senti-norm-29993#4,9,pos,Parents have a voice in whether their child seeks a paternity test,Parents deserve to have a voice in whether their child seeks a paternity test.
+senti-norm-2903#130,0,pos,Prisons prioritise rehabilitation,Prisons must prioritise rehabilitation because highly punitive sentences cause harms to the prisoners.
+senti-norm-486#1,1,pos,The West build working autonomous killing machines (AKMs) as quickly as possible,The West should build working autonomous killing machines (AKMs) as quickly as possible.
+senti-norm-9360#244,2,pos,Jurys be selected by random as they are to appear for jury selection,Jurys should be selected by random as they are to appear for jury selection. Lawyers should not be afforded the ability to select jurors they want as this then becomes a game. Random selection from voter registration and you get what you get. The constitution secures you to a trial by your peers not a trail by persons manipulated by lawyers.
+senti-norm-7100#1,3,pos,All drugs be legalised,All drugs should be legalised.
+senti-norm-1528#1,4,neg,Society treat obesity as an acceptable lifestyle choice,Society should not treat obesity as an acceptable lifestyle choice.
+senti-norm-30446#444,5,pos,Past offenders be kept on close watch,"Past offenders are more likely to be placed on the Chronic Offender Bulletin, a list of people the data says are most at risk of reoffending and ought to be kept on close watch."
+senti-norm-27376#1,7,neg,Copyright,Copyright should be abolished.
+senti-norm-18730#1,8,pos,a global evaluation system for students' performances,There should be a global evaluation system for students' performances
+senti-norm-10038#6,9,pos,a person must be at least 18 to pick religion,"The government requires that a person must be at least 18 to vote. By setting a minimum age our government believes that anyone younger doesn’t have the knowledge, wisdom, or life experience to pick what’s best. The same should apply to religion."
+senti-norm-14258#1,1,neg,Animal testing,Animal testing should be banned.
+senti-norm-2027#506,2,pos,Legalize all drugs only for mentally stable adults,"Legalize all drugs, but only for mentally stable adults."
+senti-norm-985#1,3,pos,Every human have the right and means to decide when and how to die,Every human should have the right and means to decide when and how to die.
+senti-norm-19653#13,4,neg,Copyright,"Copyright should be abolished entirely, not reformed."
+senti-norm-1692#2,6,pos,"Citizens maintain the democratic state by voting, which is enforced through compulsory voting","Citizens have a duty to maintain the democratic state by voting, which is enforced through compulsory voting."
+senti-norm-8021#15,7,neg,Interpretation,"Interpretation is a problem. Sometimes good ideas, old texts and even part of human history are understood incorrectly because of the efforts that people need to do to translate something. When you are not reading something in the original language that it was written, take for sure that something must be ""missing"" in the content"
+senti-norm-24646#1,9,neg,The BAR exam as a requirement to practice law,The BAR exam should be eliminated as a requirement to practice law.
+senti-norm-2903#5,0,pos,"focus primariliy on the more concrete concept, i.e., punishment","As rehabilitation is harder to objectively measure than a reasoned length of punishment, it is necessary to focus primarily on the more concrete concept, i.e. punishment."
+senti-norm-19017#1,1,pos,The lecture be replaced with more effective teaching methods,The lecture is dead. They should be replaced with more effective teaching methods.
+senti-norm-16093#1,2,pos,Breastfeeding be mandatory,Breastfeeding should be mandatory
+senti-norm-16322#1,3,neg,Businesses Deny Service to Trump Administration Officials,Businesses Should Not Deny Service to Trump Administration Officials.
+senti-norm-4774#1,5,pos,All companies be entirely owned by their workers,All companies should be entirely owned by their workers.
+senti-norm-1291#1,6,pos,donate to organisations that support gorillas,People should donate to organisations that support gorillas instead of to those that support starving children.
+senti-norm-12945#1,9,pos,The US adopt a single-payer health care system,The US should adopt a single-payer health care system.
+senti-norm-18593#251,0,neg,A religion's teaching affect the law,A religion's teaching should not affect the law.
+senti-norm-921#3234,1,neg,act because of a lack of sufficient information,It is better not to act because of a lack of sufficient information.
+senti-norm-29964#3,2,pos,Curricula reflect the diversity of the peoples and cultures who are following and learning from them,Curricula ought to reflect the diversity of the peoples and cultures who are following and learning from them.
+senti-norm-16674#18,3,pos,the possibility that health benefits could be developed be put above our concerns,There is the possibility that health benefits could be developed and this potential must be put above our concerns.
+senti-norm-18056#1,5,pos,Solutions Architects in the IT industry,We need more Solutions Architects in the IT industry
+senti-norm-16376#2,6,pos,"Cities have a dockless, station-free (app-based) bike share system (e.g. LimeBike, Spin, ofo)","Cities should have a dockless, station-free (app-based) bike share system (e.g. LimeBike, Spin, ofo)"
+senti-norm-10049#1,7,neg,Racial profiling by law enforcement,Racial profiling by law enforcement should be banned.
+senti-norm-6295#1,8,pos,Fundamental rights be extended to General AI,Fundamental rights should be extended to General AI.
+senti-norm-30154#34,9,pos,The solution for this be to have better security and greater regulation in these areas,The solution for this should be to have better security and greater regulation in these areas instead of forcing people to continue to live in insecure circumstances and put up resistance.
+senti-norm-29992#1,0,pos,create and adopt a universal currency,We should create and adopt a universal currency.
+senti-norm-13876#1,2,pos,The US support EU policy to limit cadmium levels in fertilizer to 20mg/kg,The US should support EU policy to limit cadmium levels in fertilizer to 20mg/kg
+senti-norm-13282#86,5,pos,"many nation-/region-specific laws that Internet platforms adhere to, or risk being prosecuted","Definitely not, there are many nation-/region-specific laws that Internet platforms have to adhere to, or risk being prosecuted."
+senti-norm-15978#151,6,neg,People wanting something (e.g. not to pay taxes) be a consideration in making it mandatory,"What people want to be called is irrelevant to whether the use of gender-neutral pronouns should be ""mandatory."" People wanting something (e.g. not to pay taxes) should not be a consideration in making it mandatory. The cost of enforcing and prosecuting it, and the real benefits to society of having it, need to be weighed."
+senti-norm-8752#1,7,pos,Public entities only use open source software,Public entities should only use open source software.
+senti-norm-8148#1,9,pos,"Those who pay tax be able to earmark some portion of their personal tax contribution to their choice of projects, departments, and other government expenditures","Those who pay tax should be able to earmark some portion of their personal tax contribution to their choice of projects, departments, and other government expenditures."
+senti-norm-21363#1,0,pos,State I.D. Cards be 100% free,State I.D. Cards should be 100% free.
+senti-norm-2032#189,1,neg,Schools reject The prevalence of laptops and other devices outside schools shapes how students interact with information ,The prevalence of laptops and other devices outside schools shapes how students interact with information. Schools should not reject this reality but capitalize on it.
+senti-norm-12945#209,2,neg,Saving human lives be an activity reliant on the incentive by profit,Saving human lives should not be an activity reliant on the incentive by profit.
+senti-norm-8716#3,4,pos,leave the nature make it's own way,We must leave the nature make it's own way.
+senti-norm-16648#12,6,pos,The US establish a Space Force,The US should establish a Space Force
+senti-norm-2027#1043,7,pos,a 'war on drugs' with harsh policies for both the consumption and trade of drugs (not including alcohol),Pursue a 'war on drugs' with harsh policies for both the consumption and trade of drugs (not including alcohol).
+senti-norm-2871#1,8,pos,Immigrants brought to the US illegally as children (DREAMers) be granted US citizenship,Immigrants brought to the US illegally as children (DREAMers) should be granted US citizenship.
+senti-norm-1470#1,9,pos,Convicted felons in the United States (that is: sentenced of a crime punishable with at least one year in prison or death) permanently lose their voting rights,Convicted felons in the United States (that is: sentenced of a crime punishable with at least one year in prison or death) should permanently lose their voting rights.
+senti-norm-2224#1,1,pos,Culturally or historically significant artwork become the property of the state,Culturally or historically significant artwork should become the property of the state.
+senti-norm-10250#410,3,neg,these people been allowed to vote,None of these people should have been allowed to vote.
+senti-norm-5292#1,4,neg,The quality of artwork be judged based on the conduct of the artist,The quality of artwork should not be judged based on the conduct of the artist.
+senti-norm-2856#56,5,neg,Services encourage users to take part in illegal activity,Services such as Airbnb encourage users to take part in illegal activity. Such services should not be allowed.
+senti-norm-1592#2,6,pos,Agree and then honor the agreement,"Option ""One"": Agree and then honor the agreement. Become the slave police."
+senti-norm-14974#2,7,pos,"Every person, despite their gender, be able to give their opinion about something that concerns the whole society","Every person, despite their gender, should be able to give their opinion about something that concerns the whole society."
+senti-norm-921#119,8,neg,Pulling the lever,Pulling the lever has negative consequences for the person and thus should not be done.
+senti-norm-2027#1042,9,neg,consumption of all drugs including alcohol and nicotine,Prohibit consumption of all drugs including alcohol and nicotine.
+senti-norm-11798#1,0,pos,Financial literacy prevalence in the education system,Financial literacy needs more prevalence in the education system.
+senti-norm-10134#11,1,pos,Someone decide what constitutes hate-speech,"Someone has to decide what constitutes hate-speech. Even with the best intentions this may lead to a bias, and with bad intentions this may lead to hate-speech laws being used to disproportionally silence specific ideas."
+senti-norm-13517#3,3,neg,Physician-assisted death be allowed,"Physician-assisted death should never be allowed, no matter what the circumstances are."
+senti-norm-17841#1,4,neg,Ear piercing of newborns,Ear piercing of newborns should be banned.
+senti-norm-2408#2402,5,neg,What we choose to memorialize always be something we admonish,What we choose to memorialize does not always have to be something we admonish. The holocaust memorial exists for example.
+senti-norm-12158#1,6,pos,The maximum limit of ¬£30k be replaced with a formula,The maximum limit of £30k should be replaced with a formula
+senti-norm-1154#6,7,pos,"As long as the All Writs Act is in place, private companies comply","With the All Writs Act, the FBI has a legal basis for their demands. As long as this law is in place, private companies have to comply."
+senti-norm-7487#1,8,pos,Vertical Farming Replace Current Agricultural Methods,Vertical Farming Should Replace Current Agricultural Methods
+senti-norm-10408#13,9,pos,Privacy be respected regardless of who the person is,Privacy is a fundamental human right and should be respected regardless of who the person is.
+senti-norm-30281#1,0,pos,The NHS be privatised,The NHS should be privatised.
+senti-norm-16915#43,1,pos,Public funding be utilized on what society is willing to prioritize,"Public funding still ought to be utilized on what society is willing to prioritize, and PP's abortion activities are not."
+senti-norm-27396#1,2,pos,Facebook do more to limit hate speech,Facebook should do more to limit hate speech.
+senti-norm-14119#1,4,pos,Anyone be allowed to be a parent,Anyone should be allowed to be a parent.
+senti-norm-30004#1,5,pos,Social media sites be regulated to maintain fair access to public discourse,Social media sites should be regulated to maintain fair access to public discourse – they shouldn't be allowed to ban people for their opinions.
+senti-norm-5601#424,6,neg,create new claims in this branch,Administrative Holding Area to act as a place to put claims that have been flagged for review with no changes for awhile. Do not create new claims in this branch.
+senti-norm-7018#380,7,pos,The succession of multiple generations without the advent of new positions within identity politics before claiming that new positions will cease to appear,The succession of multiple generations without the advent of new positions within identity politics is required before claiming that new positions will cease to appear.
+senti-norm-23318#8,0,pos,School only be mandatory if its free for everyone,School should only be mandatory if its free for everyone.
+senti-norm-2027#1,1,pos,"Legalize all drugs, including hard drugs like heroin","Legalize all drugs, including hard drugs like heroin."
+senti-norm-18009#1,2,pos,Everyone's wealth and income information be publicly available,Everyone's wealth and income information should be publicly available.
+senti-norm-23597#3,3,pos,Teachers have the freedom to express themselves through their appearence,Teachers should have the freedom to express themselves through their appearence.
+senti-norm-18098#461,4,neg,"A truly secular state have laws pertaining to religion, nor establishment of any religion","A truly secular state should not have laws pertaining to religion, nor establishment of any religion. Thus the state should have no say in what religions are actual, and which are not. It is not up to the secular state to authenticate religions."
+senti-norm-921#3177,5,neg,pulling the lever be considered as unlawful in religious terms,"Since there is no intent of killing and a small probability to survive, pulling the lever is not a murder and thus should not be considered as unlawful in religious terms."
+senti-norm-7738#1,6,pos,religion for morality,We need religion for morality.

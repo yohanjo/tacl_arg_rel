@@ -1,32 +1,59 @@
 # Data
-This directory contains two datasets: Kialo and Debatepedia.
+This directory contains two argument datasets (Kialo and Debatepedia) and additional data for training semantic modules.
 
-## Contents
-* `[DATASET]_[TYPE]_pairs-[MODE].csv`: Argument instances.
+## Arguments (kialo and debate)
+* `[DATASET]_[TYPE]_pairs-[MODE].csv`: Argument instances
   * `DATASET`
-    * `kialo`: Kialo.
-    * `debate`: Debatepedia.
+    * `kialo`: Kialo
+    * `debate`: Debatepedia
   * `TYPE`
-    * `normative`: Normative arguments.
-    * `causal`: Non-normative arguments.
+    * `normative`: Normative arguments
+    * `causal`: Non-normative arguments
   * `MODE`
-    * `bi`: Support and attack relations.
-    * `neu`: Neutral relations (heuristically-generated).
+    * `bi`: Support and attack relations
+    * `neu`: Neutral relations (heuristically-generated)
   * Columns
-    * `pairid`: Unique ID for an argument.
-    * `argid`: Discussion ID.
-    * `propid_to`: Claim ID.
-    * `propid_from`: Statement ID.
-    * `text_to`: Claim text.
-    * `text_from`: Statement text.
+    * `pairid`: Unique ID for an argument
+    * `argid`: Discussion ID
+    * `propid_to`: Claim ID
+    * `propid_from`: Statement ID
+    * `text_to`: Claim text
+    * `text_from`: Statement text
     * `relation`
-      - `1`: Support.
-      - `-1`: Attack.
-      - `0`: Neutral.
-* `[DATASET]_[TYPE]_pairs-[MODE]-split.csv`: Split information.
+      - `1`: Support
+      - `-1`: Attack
+      - `0`: Neutral
+* `[DATASET]_[TYPE]_pairs-[MODE]-split.csv`: Split information
   * Columns
-    * `pairid`: Unique ID for an argument.
+    * `pairid`: Unique ID for an argument
     * `split`:
-      - `train`: Fitting (PSL) or training (LogBERT).
-      - `val`: Validation.
-      - `test`: Test.
+      - `train`: Fitting (PSL) or training (LogBERT)
+      - `val`: Validation
+      - `test`: Test
+
+## Semantic Modules (rsc)
+* Textual Entailment
+  * `mnli-org.csv `: MNLI
+  * `antsyn-nli.csv `: AntSyn
+  * `neu_wpair-50000.csv `: Neu50K
+* Sentiment Classification
+  * `senti-sem17.csv `: SemEval17
+  * `senti-ldong.csv `: Dong
+  * `senti-mm.csv `: Mitchell
+  * `senti-irish.csv `: Bakliwal
+  * `senti-norm.csv `: Norm
+  * `senti-s140.csv `: Sentiment140 (used for pretraining)
+  * `senti-slex.csv `: Subjectivity Lexicon (used for pretraining)
+* Causality
+  * `pdtb-e-causal.csv `: PDTB Explicit (both `precede` and `sync` are mapped to `cause`)
+  * `pdtb-i-causal.csv `: PDTB Implicit (both `precede` and `sync` are mapped to `cause`)
+  * `pdtb-e-causal-r.csv `: PDTB-R Explicit (`sync` is mapped to `cause`)
+  * `pdtb-i-causal-r.csv `: PDTB-R Implicit (`sync` is mapped to `cause`)
+  * `because-causal.csv `: BECauSE
+  * `because-causal-r.csv `: BECauSE-R
+  * `conet-causal.csv `: ConceptNet (both `cause` and `precede` are mapped to `cause`)
+  * `conet-causal-r.csv `: ConceptNet-R
+  * `wiqa-causal.csv`: WIQA
+  * `wiqa-causal-p.csv `: WIQA-P
+* Normative Relation
+  * `normarg.csv`: Annotations of argumentation schemes (see `/annotation/README.md` for the format)
