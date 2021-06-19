@@ -2,6 +2,7 @@
 This directory contains the annotation manuals and resulting annotations.
 
 ## Annotations (`normarg.csv`)
+Format
 * `id`: Unique ID of an argument.
 * `con`: Claim text.
 * `pre`: Statement text
