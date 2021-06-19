@@ -1,5 +1,32 @@
 # Source Code
 
+## Probabilistic Soft Logic
+### Dependencies
+* Download [`psl-cli-2.2.2.jar`](https://github.com/linqs/psl) to this directory.
+
+### Run
+```
+usage: main_psl.py [-h] -dataset {kialo,debate} -dtype {normative,causal} [-trans]
+
+optional arguments:
+  -h, --help            show this help message and exit
+  -dataset {kialo,debate}
+                        Dataset.
+  -dtype {normative,causal}
+                        Argument type (causal=non-normative).
+  -trans                Include the chain rules (only for kialo).
+```
+
+To run PSL with the chain rules:
+```
+$ python main_psl.py -dataset [DATASET] -dtype [DTYPE] -trans
+```
+
+To run PSL without the chain rules:
+```
+$ python main_psl.py -dataset [DATASET] -dtype [DTYPE]
+```
+
 
 ## LogBERT
 ### Dependencies
