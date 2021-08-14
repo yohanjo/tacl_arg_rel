@@ -1,6 +1,9 @@
 # Data
 This directory contains two argument datasets (Kialo and Debatepedia) and additional data for training semantic modules.
 
+## Correction
+In Table 4, for Normative-sup, the number for Kialo-Test should be 6,598 and Debatepedia-Fit should be 4,618.
+
 ## Arguments (kialo and debate)
 
 ### File naming format
