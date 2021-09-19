@@ -14,6 +14,6 @@ While argument mining has achieved significant success in classifying argumentat
     year = "2021",
     url = "https://doi.org/10.1162/tacl_a_00394",
     doi = "10.1162/tacl_a_00393",
-    pages = "1--19",
+    pages = "721--739",
 }
 ```
