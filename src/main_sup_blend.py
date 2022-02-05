@@ -70,6 +70,7 @@ cfg = {
     "data_dir": None,
     "logs_dir": None,
     "save_model": False,
+    "models_dir": "../models",
 }
 
 def load_data_main(trainer):
@@ -340,6 +341,9 @@ if __name__ == "__main__":
     cfg["tasks"]["main"]["classes"] = ["sup", "att", "neu"] \
                                 if args.dataset == "kialo" else ["sup", "att"]
 
+    # Make the log directory if not exists
+    os.makedirs(cfg["logs_dir"], exist_ok=True)
+
     if args.task == "basic":
         if args.logic is not None:
             print("Warning: args.logic will be ignored.")
@@ -365,13 +369,17 @@ if __name__ == "__main__":
         tasks = ["main"] + blend_tasks
 
         if cfg["blend_warmup"]:
-            model_path = f'{cfg["logs_dir"]}/blend_only-' + \
+            model_path = f'{cfg["models_dir"]}/blend_only-' + \
                                 "+".join(sorted(blend_tasks)) + ".model"
+
             if cfg["train_blend_warmup"]:
-                if os.path.exists(model_path): continue
+                if os.path.exists(model_path): 
+                    continue
+                os.makedirs(cfg["models_dir"], exist_ok=True)
+
             else:
                 if not os.path.exists(model_path): 
-                    print("Model not found")
+                    print(f"Model not found: {model_path}")
                     continue
 
 
@@ -432,8 +440,6 @@ if __name__ == "__main__":
         # Warmup with blend tasks
         init_model = None
         if cfg["blend_warmup"]:
-            model_path = f'{cfg["logs_dir"]}/blend_only-' + \
-                            "+".join(sorted(blend_tasks)) + ".model"
             if cfg["train_blend_warmup"]: 
                 if os.path.exists(model_path): continue
 
