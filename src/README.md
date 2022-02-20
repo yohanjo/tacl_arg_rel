@@ -75,6 +75,8 @@ python main_logbert_infer.py -logic nli senti causal normarg -data [INPUT_CSV_PA
  - `[OUTPUT_CSV_PATH]`: The output csv will contain five columns: (1) `id` - pair ID, (2) `con_text` - text_to, (3) `pre_text` - text_from, (4) `label_prop` - probability scores of labels [support, attack, neutral], (5) `label_pred` - label with the highest probability score. 
  - `[LOGBERT_MODEL_PATH]` should be a LogBERT model, not to confused with a pretrained logic task model. If you trained LogBERT on your machine, the model is saved as `[REPO_BASE_DIR]/logs/[DATASET]/sup_blend-...` by default.
 
+The script runs inference and writes the results for every 50,000 rows internally (to prevent loading too many instances all at once).
+
 **To run basic BERT:**
 ```
 $ python main_main_sup_blend.py -task basic -dataset [DATASET] -dtype [DTYPE] -cuda 0
