@@ -63,6 +63,8 @@ To run LogBERT:
 ```
 $ python main_main_sup_blend.py -task logbert -dataset [DATASET] -dtype [DTYPE] -logic nli senti causal normarg -cuda 0
 ```
+Go to the [repository](https://www.dropbox.com/sh/aeeioqkkbl52w8q/AAAuXcelFTo3SX-zbUj58YR5a) of pretrained models. Download the model(s) you need to `PROJECT_DIR/models/`. The filename of each model indicates the logical tasks the model was trained with (e.g., `blend_only-nli+normarg.model` was trained with the NLI and normative relation tasks).
+
 
 To run basic BERT:
 ```
