@@ -62,9 +62,10 @@ class Trainer(object):
 
         if state_dict:
             print("Loading pretrained model...")
-            del state_dict["clfs.main.weight"]
-            del state_dict["clfs.main.bias"]
-            self.model.load_state_dict(state_dict, strict=False)
+            #del state_dict["clfs.main.weight"]
+            #del state_dict["clfs.main.bias"]
+            #self.model.load_state_dict(state_dict, strict=False)
+            self.model.load_state_dict(state_dict)
 
     def insert_new_clf(self, task, classes):
         self.model.insert_new_clf(task, classes)
